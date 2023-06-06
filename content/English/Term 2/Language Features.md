@@ -1,0 +1,218 @@
+##### [← English Home](English%20Home%20-%20Year%2011)
+
+### Table of Contents
+- [[#Imaginative Language Features|Imaginative Language Features]]
+- [[#Persuasive Language Features|Persuasive Language Features]]
+- [[#Spoken Language Features|Spoken Language Features]]
+- [[#Visual and Multimodal Language Features|Visual and Multimodal Language Features]]
+
+### English Techniques
+- #### Literary Techniques
+	- [Matrix Education - Literary Techniques](https://www.matrix.edu.au/essential-guide-english-techniques/the-literary-techniques-toolkit/)
+- #### Visual Techniques
+	- [Matrix Education - Visual Techniques](https://www.matrix.edu.au/essential-guide-to-english-techniques/visual-techniques-toolkit/)
+
+### Imaginative Language Features
+- #### Descriptive Language
+	- Adjectives and Adverbs
+		- Adjectives describe nouns
+		- Adverbs describe verbs
+	- Connotation
+		- Meaning that is suggested, rather than literal
+	- ==Sensory Details==
+		- Words and phrases that appeal to the reader's senses
+			- Typically of sight and hearing, but also of touch, taste and smell
+- #### Figurative Language
+	- Anthropomorphism
+	- Metaphor
+	- Metonymy
+	- ==Pathetic Fallacy==
+		- Crediting nature with human traits
+		- e.g. a description of the weather to symbolise a character's emotional state
+	- Personification
+	- Simile
+	- Symbol
+		- An object pr phrase that emobdies a range of meanings that extend beyond its literal definition
+	- Synecdoche
+	- Zoomorphism
+- #### Sound Devices
+	- Alliteration
+	- Assonance
+	- ==Cacophony==
+		- Combing words to create or imply a harsh or unpleasant sound
+	- Consonance
+	- Euphony
+	- ==Onamatopoeia==
+		- Words that sound similar to the sound they are mean to depict
+	- Rhyme
+- #### Pace
+	- Caesura
+		- A break in the rhythm of a line of poetry, created by splitting a sentence or interrupting its regular rhythm, resulting in a dramaric pause
+	- Rhythm
+		- Patterns created through the arrangement of words according to syllables or the natural emphases created by their pronuciation
+- #### Word Play
+	- ==Irony==
+		- Using words with intended meanings that are different from, or even the opposite of, their literal meanings
+			- Often conveyed by the tone of delivery
+		- ==Three types of Irony:==
+			- Verbal Irony
+				- When someone says something that is opposite to what they mean
+				- e.g. saying how warm it is when its very cold
+			- Situational Irony
+				- An event that mocks its circumstances
+				- e.g. a fire station gets burnt down when its supposed to be a building to protect against fire
+			- Dramatic Irony
+				- When something happens/is happening that the character in the situation is unaware of but the audience knows
+					- e.g. Romeo thinks Juliet is dead but the audience knows she is actually asleep
+	- Parody
+		- The delibrate exaggeration of particular textual features of another work for humourous effect
+	- Pun
+		- A play on words, creating humour or irony through the fact that words have two or more meanings
+	- Satire
+		- Using humour or parody to draw attention to human flaws
+- #### Intertextuality
+	- ==Allegory==
+		- Exploring a complex or abstract concept through the creation of a more concrete example
+	- Allusion
+		- A casual reference to another literary work or real-world event
+	- Analogy
+		- Explaining something by comparing it with a similar thing that is more familiar to the audience
+	- Quotation
+		- Repeating the words of another work or person, to add meaning or **authority** to a text
+
+### Persuasive Language Features
+- #### Pathos - Emotion
+	- Anaphora
+	- Attacks and Praise
+	- Colloquialism
+	- Cumulation
+	- Emotive Language
+		- Language that is highly emotional, designed to provoke an emotional response from the audeince
+	- Emphasis
+	- Generalisation
+	- Hyperbole
+	- ==Inclusive Language==
+		- Language, such as ==personal pronouns== (e.g. 'we', 'us', 'our'), that makes the audience feel included in the writer's argument
+	- Litotes
+	- Repetition
+	- ==Rhetorical Question==
+		- A question that is posed not to elicit and answer but to encourage the audience to think, or for which the answer is self-evident
+- #### Logos - Logic
+	- Aphorism
+	- Evidence
+	- Expert Opinions
+	- Formal Language
+	- Jargon
+	- Statistics
+	- Tricolon
+- #### Ethos - Credibility and Character
+	- Anecdote
+	- Credentials
+	- Testimonials
+
+### Spoken Language Features
+- ==Accent==
+	- The way in which words are pronounced, usually associated with a geograhical region
+- Back-channel
+- ==Dialect==
+	- Grammar and vocabulary that is particular to a ==specific region==
+- Diction or Lexical Choice
+- Elision
+	- The omission or slurring of syllables or words, such as 'gonna' and 'g' day'
+- ==Ellipsis==
+	- The omission of part of a sentence to create a causal tone
+	- e.g. 'You going out tonight?' (missing are)
+	- e.g. 'Don't know. You?' (missing 'I' and 'are')
+- Enunciation
+- Filler
+- Fluency
+	- The quality of speech in terms of its fluid and error-free delivery
+- Idiolect
+- ==Intonation==
+	- The expression or tone carried by the voice; also refers to whether the voice is rising, falling or remaining at the same pitch
+- Modality
+- ==Non-verbal features==
+	- Features that inform spoken communication,
+	- e.g. eye contact, gesture, posture and movement
+- Pace or Tempo
+- Pause
+- ==Pitch==
+	- The sound frequency (high or low) or a voice
+- Register
+- Rhythm
+- ==Sociolect==
+	- A style of speaking associated with a particular social group
+- Stress
+- ==Tone==
+	- Language choices that convey emotion or attitude
+- Transition Markers
+- ==Volume==
+	- The loundness or softness of a speaker
+
+### Visual and Multimodal Language Features
+- #### Mise en scène - Visual elements within the frame
+	- Lighting
+		- Colour
+		- Contrast
+		- Key
+	- Setting
+		- Environment
+		- Props
+	- Subject
+		- Body Language
+		- Costume
+- #### Composition - Placement of elements within an image
+	- Camera Angle
+		- Eye Level
+		- High Angle/Bird's Eye
+		- Low Angle/Worm's Eye
+		- Oblique
+	- Shot Type
+		- Close-up/Extreme Close-Up
+		- Establishing/Long Shot
+		- Full/Medium Shot
+	- Density
+	- Depth of Field
+	- Film Stock
+	- Framing
+	- Proxemics
+	- Salience
+	- Staging Positions
+- #### Text - Any words included in the imagr
+	- Position
+	- Ratio
+	- Typography
+- #### Camera Movement and Focus
+	- Dolly
+		- Camera is mounted on a moving platform (dolly)
+			- **Smoothly** moves closer to (dolly in) or **further away** from (dolly out) the subject
+		- Gives the impression that the viewer is moving to/from the subject
+			- Creates a less artificial effect than zooming
+	- Handheld
+	- Pan
+	- Pedestal
+	- Tilt
+	- Truck
+	- Zoom
+- #### Editing
+	- Crossfade
+	- Cut/Cutaway
+	- Fade
+	- Jump Cut
+	- L-cut
+	- Match Cut
+	- Shot Reverse Shot
+	- Split Screen
+	- Wipe
+- #### Sound
+	- Diegetic
+		- Natural sounds from the scene
+			- e.g. dialogue, street noise, wind
+		- Adds to the realism of a scene
+	- Extra-diegetic
+		- Sound added in editing
+			- i.e. not natural/not from the scene
+			- e.g. voice-over commentary, backing track, sound effects
+		- Creates atmosphere and manipulates the audience's response
+
+> [!info] Credit to Insight Year 11 English
