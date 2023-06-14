@@ -4,12 +4,8 @@ title: bajus
 
 ## Year 11
 - [[Year 11/Specialist/Specialist Home - Year 11|11SpecialistATAR]]
-- [11MethodsATAR](Methods%20Home%20-%20Year%2011.md)
-- [11ChemistryATAR](Chemistry%20Home%20-%20Year%2011.md)
-- [11PhysicsATAR](Physics%20Home%20-%20Year%2011.md)
-- [11EnglishATAR](English%20Home%20-%20Year%2011.md)
-- [11EconomicsATAR](Economics%20Home%20-%20Year%2011.md)
-  
-### Other Key Items
-- Excalidraw Diagrams: #excalidraw 
-- [Markdown Formatting Guide](Markdown%20Formatting%20Guide)
+- [[Year 11/Methods/Methods Home - Year 11|11MethodsATAR]]
+- [[Year 11/Chemistry/Chemistry Home - Year 11|11ChemistryATAR]]
+- [[Year 11/Physics/Physics Home - Year 11|11PhysicsATAR]]
+- [[Year 11/English/English Home - Year 11|11EnglishATAR]]
+- [[Year 11/Economics/Economics Home - Year 11|11EconomicsATAR]]
