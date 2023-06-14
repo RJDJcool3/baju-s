@@ -1,11 +1,34 @@
 ##### [← Chemistry Home](Chemistry%20Home%20-%20Year%2011)
+
+### Classification of Matter
+- Mixtures
+- Flowchart: 
+  ![[TempClassificationOfMatter.png|600]]
  
-### Methods of Separation
+### Methods of Separation (TBF)
+- Sieving
+	- A porous material is used to separate particles of different sizes
 - Filtration
 	- Separates an insoluble solid from a mixture
 	- The solvent can pass through the filter paper but the solid cannot
 	- Scientific Diagram:
 	  ![](Excalidraw/Filtration|400|)
+- Decanting
+	- Separates particulates from a liquid by allowing the solids to settle as the bottom of the mixture and pouring off the particle-free part of the liquid
+	- The liquid left in the solids must be removed later
+	- This only works when the components are immiscible
+- Separation Funnel (See OneNote for diagram until its updated)
+	- Used to separate heterogenous mixture
+	- Components will settle into different layers
+- Distillation
+	- Normal Distillation
+		- Scientific Diagram (TBF)
+		  ![](Excalidraw/Distillation|400|)
+	- Fractional Distillation
+		- Scientific Diagram (TBF)
+- Magnetic Susceptibility
+- Electrostatic Attraction
+- Vaporisation
 - Evaporation
 	- Separates a solute from a solution
 	- Mixture is heated in evaporating basin
@@ -25,12 +48,6 @@
 			- Crystallisation gives pure solid crystals without impurities like dust
 	- Scientific Diagram
 	   ![](Excalidraw/Crystallisation|400|)
-- Distillation
-	- Normal Distillation
-		- Scientific Diagram (TBF)
-		  ![](Excalidraw/Distillation|400|)
-	- Fractional Distillation
-		- Scientific Diagram
 - Chromatography
 	- Many varying types
 	- See the full [Chromatography](Chromatography) section for more details
