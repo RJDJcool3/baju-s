@@ -1,3 +1,7 @@
+---
+title: Chemistry Home - Year 11
+---
+
 ##### [← Home Page](Home%20Page.md)
 
 ##### Atomic Structure

@@ -1,3 +1,7 @@
+---
+title: Home Page
+---
+
 ## Year 11
 - [11SpecialistATAR](Specialist%20Home%20-%20Year%2011.md)
 - [11MethodsATAR](Methods%20Home%20-%20Year%2011.md)

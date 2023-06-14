@@ -1,3 +1,7 @@
+---
+title: Solubility
+---
+
 ##### [← Chemistry Home](Chemistry%20Home%20-%20Year%2011)
 
 ### What is Solubility?

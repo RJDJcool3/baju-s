@@ -1,3 +1,7 @@
+---
+title: English Home - Year 11
+---
+
 ##### [← Home Page](Home%20Page.md)
 
 ### Semester 1

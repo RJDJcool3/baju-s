@@ -1,3 +1,7 @@
+---
+title: Trigonometric Functions
+---
+
 ##### [← Methods Home](Methods%20Home%20-%20Year%2011)
 
 ### Exact Values
