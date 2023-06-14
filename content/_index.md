@@ -3,7 +3,7 @@ title: bajus
 ---
 
 ## Year 11
-- [11SpecialistATAR](Specialist%20Home%20-%20Year%2011.md)
+- [[Year 11/Specialist/Specialist Home - Year 11|11SpecialistATAR]]
 - [11MethodsATAR](Methods%20Home%20-%20Year%2011.md)
 - [11ChemistryATAR](Chemistry%20Home%20-%20Year%2011.md)
 - [11PhysicsATAR](Physics%20Home%20-%20Year%2011.md)
