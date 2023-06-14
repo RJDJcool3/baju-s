@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Ajay Bisnath
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -9,21 +9,16 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/bajus/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
-page_title:
-  "🪴 Quartz 3.3"
+description: Welcome to Baju's Learning! We make learning engaging & effective, so that you are ready to achieve your goals as the leader in the Indian education-tech sector.
+page_title: "Baju's Learning"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/RJDJcool3
