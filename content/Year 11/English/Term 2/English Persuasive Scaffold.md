@@ -1,3 +1,7 @@
+---
+title: English Persuasive Scaffold
+---
+
 ##### [← English Home](English%20Home%20-%20Year%2011)
 
 Create a persuasive text that uses language patterns to strengthen its purpose.

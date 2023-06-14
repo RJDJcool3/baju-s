@@ -1,3 +1,7 @@
+---
+title: Economics Exam Semester 1 Revision
+---
+
 ### Re-done Assessments
 - #### Assessment 1
 	- 7. b. Describe two factors that would cause an outward shift in the PPF

@@ -1,3 +1,7 @@
+---
+title: Acids and Bases
+---
+
 ##### [← Chemistry Home](Chemistry%20Home%20-%20Year%2011)
 
 ### Definitions for Acids and Bases

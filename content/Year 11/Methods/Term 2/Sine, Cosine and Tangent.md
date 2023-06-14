@@ -1,3 +1,7 @@
+---
+title: Sine, Cosine and Tangent
+---
+
 ### Table of Contents
 - [[#Exact Values|Exact Values]]
 - [[#Circle Formulas|Circle Formulas]]
