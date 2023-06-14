@@ -1,3 +1,7 @@
+---
+title: Economics Response Guide
+---
+
 ### Double Curve Shift
 - Use correct diagram
 	- Illustrate both curve shifts on diagram and refer to the diagram when explaining the curve shifts

@@ -1,3 +1,7 @@
+---
+title: Markdown Formatting Guide
+---
+
 ### Emphasis
 - **This is a bold sentence.** __This is also a bold sentence__
 - This sentence includes a **bold** word.

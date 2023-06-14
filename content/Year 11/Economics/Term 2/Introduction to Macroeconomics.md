@@ -1,3 +1,7 @@
+---
+title: Introduction to Macroeconomics
+---
+
 ##### [← Economics Home](Economics%20Home%20-%20Year%2011)
 
 ### The Circular Flow of Income
