@@ -2,7 +2,7 @@
 title: Waves
 ---
 
-##### [← Physics Home](Physics%20Home%20-%20Year%2011)
+##### [[../Physics Home - Year 11|← Physics Home]]
 
 ### Intensity
 - $I = \frac{P}{A}$ 

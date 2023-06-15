@@ -12,4 +12,4 @@ title: Home Page
   
 ### Other Key Items
 - Excalidraw Diagrams: #excalidraw 
-- [[Markdown Formatting Guide]]
+- [[../Other/Important Documents/Markdown Formatting Guide|Markdown Formatting Guide]]

@@ -2,11 +2,11 @@
 title: Geometric Proofs
 ---
 
-##### [← Specialist Home](Specialist%20Home%20-%20Year%2011)
+##### [[../Specialist Home - Year 11|← Specialist Home]]
 
 ### Important Links
-- [Cambridge](Cambridge%20Specialist.pdf) - Chapter 8
-- [Geometric Proofs with Noah](Geometric_Proofs_Noah.pdf)
+- [[../Course Documents/Textbook/Cambridge Specialist.pdf#page=262|Cambridge Circle Geometry]]
+- [[Geometric_Proofs_Noah.pdf|Geometric Proofs with Noah]]
   
 ### Circle Proofs
 - #### Arcs/Segment Proofs

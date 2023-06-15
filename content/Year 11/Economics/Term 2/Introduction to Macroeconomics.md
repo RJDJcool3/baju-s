@@ -2,7 +2,7 @@
 title: Introduction to Macroeconomics
 ---
 
-##### [← Economics Home](Economics%20Home%20-%20Year%2011)
+##### [[../Economics Home - Year 11|← Economics Home]]
 
 ### The Circular Flow of Income
 - The Circular Flow of Income is a [macroeconomic](Macroeconomics.md) model that describes the flow of income and expenditure between different sectors in the economy

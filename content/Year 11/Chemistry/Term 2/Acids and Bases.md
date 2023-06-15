@@ -2,27 +2,77 @@
 title: Acids and Bases
 ---
 
-##### [← Chemistry Home](Chemistry%20Home%20-%20Year%2011)
+##### [[../Chemistry Home - Year 11|← Chemistry Home]]
+
+### Introduction to Acids and Bases
+- **Check out Pearson Chapter 17**
+- Acids and bases are important substances used in agriculture and industry with many diverse roles
+	- Acids and bases interact in many environmental and biological systems undergoing many different chemical reactions
+- Acids and bases have the ability to change the colour of certain plant extracts which are then used as <u>indicators</u> to reveal the acidity of a substance
+	- The acidity of an aqueous substance is measured using a pH value
+		- The pH value is dependent on the number of hydrogen ions in the solution
+		- Acids have a low pH value, bases have a high pH value
+		- Universal indicator is widely used to estimate pH of a solution
+			- It is an estimate → not super accurate
+			- Used in conjunction with a pH colour scale
+			- Colour goes from red to violet (acid to base)
+	- Litmus is a purple dye obtained from lichen used as an **indicator** for acids and bases
+- Soluble bases are known as **alkali**
+
+### Properties of Acids and Bases
+- ##### Properties of Acids
+	- Turns litmus paper red
+	- Usually corrosive
+	- Taste sour
+	- React with bases
+	- Solutions have a pH less than 7
+	- Solutions conduct an electric current
+- ##### Properties of Bases
+	- Turn litmus paper blue
+	- Caustic and slippery
+	- Taste bitter
+	- React with acids
+	- Solutions have a pH greater than 7
+	- Solutions conduct an electric current
 
 ### Definitions for Acids and Bases
-- Acids and bases can have different definitions
+- Acids and bases are difficult to define and have several different definitions
 	- The definitions for these substances have changed overtime
-	- E.g. Arrhenius, Bronsted-Lowry, Davy and Lewis are all different definitions
-- Arrhenius Acids and Bases
+	- Arrhenius, Bronsted-Lowry, Davy and Lewis are all different definitions
+- ##### Arrhenius Acids and Bases
 	- An **Arrhenius acid** is any compound that increases the concentration of H$^+$ in aqueous solution
+	- **Classifying Arrhenius Acids**
+		- <span style="color:gold;">Polyprotic acids</span>
+			- Some acids can form multiple hydrogen ions per molecule in water, these acids are known as <span style="color:gold;">polyprotic acids</span>
+			- The number of hydrogen ions an acid can donate depends on the structure of the molecule
+				- This can be difficult to tell as ethanoic acid ($CH_3COOH$) is monoprotic and only forms one hydrogen ion in water
+			- <span style="color:aqua;">Diprotic</span> and <span style="color:lime;">triprotic acids</span> are also <span style="color:gold;">polyprotic acids</span>
+		- <span style="color:aqua;">Diprotic Acids</span>
+			- <span style="color:aqua;">Diprotic acids</span> can donate two protons
+			- They can form up to two hydrogen ions per molecule in water
+			- Sulfuric acid ($H_2SO_4$) and carbonic acid ($H_2CO_3$) are <span style="color:aqua;">diprotic acids</span>
+			- <span style="color:aqua;">Diprotic acids</span> usually ionise in two stages, however the Arrhenius model represents them as ionising at once
+				- e.g. $H_2SO_4 (l) → SO_4^{2-} (aq) + 2H^+ (aq)$
+		- <span style="color:lime;">Triprotic Acids</span>
+			- <span style="color:lime;">Triprotic acids</span> can donate three protons
+			- They can form up to three hydrogen ions per molecule in water
+			- Phosphoric acid ($H_3PO_4$) and boric acid ($H_3BO_3$) are <span style="color:lime;">triprotic acids</span>
+			- <span style="color:lime;">Triprotic acids</span> usually ionise in multiple stages, however the Arrhenius model represents them as ionising at once
+				- e.g. $H_3PO_4 (l) \rightleftharpoons PO_4^{3-} (aq) + 3H^+ (aq)$
+					- Note the double arrow because phosphoric acid is a weak acid
 	- An **Arrhenius base** is any compound that increases the concentration of OH$^-$ in aqueous solution
 	- Limitations:
 		- There are many acids and bases that are not soluble
-- Davy Acids (1815)
+- ##### Davy Acids (1815)
 	- Acids are defined as substances that contain replaceable hydrogen
 		- Hydrogen could be replaced partially or completely with metals
 		- When acids reacted with metals or bases, they produced salts
 	- This is flawed as many compounds contain hydrogen and are not acids
-- Bronsted-Lowry Acids and Bases
+- ##### Bronsted-Lowry Acids and Bases
 	- An acid is a proton donor
 		- HCl + H$_2$O → H$_3$O$^-$ + Cl$^+$
 			- H$_3$O$^-$ - hydronium ion
-			- ==Water== can accept or donate protons; it can act as ==an acid or a base==
+			- <u>Water</u> can accept or donate protons; it can act as <u>an acid or a base</u>
 	- A base is a proton acceptor
 
 ### Strong and Weak Acids

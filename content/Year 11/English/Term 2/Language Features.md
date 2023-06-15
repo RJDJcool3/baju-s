@@ -2,13 +2,7 @@
 title: Language Features
 ---
 
-##### [← English Home](English%20Home%20-%20Year%2011)
-
-### Table of Contents
-- [[#Imaginative Language Features|Imaginative Language Features]]
-- [[#Persuasive Language Features|Persuasive Language Features]]
-- [[#Spoken Language Features|Spoken Language Features]]
-- [[#Visual and Multimodal Language Features|Visual and Multimodal Language Features]]
+##### [[../English Home - Year 11|← English Home]]
 
 ### English Techniques
 - #### Literary Techniques

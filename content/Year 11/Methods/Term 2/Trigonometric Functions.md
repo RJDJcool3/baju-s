@@ -2,7 +2,7 @@
 title: Trigonometric Functions
 ---
 
-##### [← Methods Home](Methods%20Home%20-%20Year%2011)
+##### [[../Methods Home - Year 11|← Methods Home]]
 
 ### Exact Values
 ##### Degrees - Table of Exact Values
@@ -60,7 +60,7 @@ title: Trigonometric Functions
 			- The $x$-intercepts are $x$ = $\frac{k\pi}{b}$
 
 ### Complementary Relationships
-- [Cambridge 12L](Cambridge%20Methods%20(Outdated).pdf#page=444)
+- [[../Course Documents/Textbooks/Cambridge Methods (Outdated).pdf#page=444|Cambridge - Circular Functions 12L]]
 - From a graph of $\textcolor{#427fbb}{\sin(\theta)}$ and $\textcolor{red}{\cos(\theta)}$ we can observe that we can transform both graphs into each other by shifting them horizontally
 	- $\sin(\frac{\pi}{2} + \ \theta) = \cos(\theta)$
 		- The $\sin$ graph is shifted to the left
@@ -85,7 +85,7 @@ top=2; bottom=-2; right=5; left=-5;
 	- $\textcolor{gold}{\sin^2\theta+\cos^2\theta = 1}$
 	  
 ### Angle Sum and Difference Identities
-- [Cambridge 12M](Cambridge%20Methods%20(Outdated).pdf#page=447)
+- [[../Course Documents/Textbooks/Cambridge Methods (Outdated).pdf#page=447|Cambridge - Circular Functions 12M]]
 	- Proofs in textbook
 - $\sin(A \pm B) = \sin{A}\cos{B} \pm \cos{A}\sin{B}$
 - $\cos(A \pm B) = \cos{A}\cos{B} \mp \sin{A}\sin{B}$

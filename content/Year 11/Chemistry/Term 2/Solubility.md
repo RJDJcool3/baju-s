@@ -2,7 +2,7 @@
 title: Solubility
 ---
 
-##### [← Chemistry Home](Chemistry%20Home%20-%20Year%2011)
+##### [[../Chemistry Home - Year 11|← Chemistry Home]]
 
 ### What is Solubility?
 - <span style="color:lightgreen;">Solubility</span> is the mass of a substance that will dissolve in 100g of water at 25$\degree$C

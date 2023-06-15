@@ -2,7 +2,7 @@
 title: Linear Motion and Force
 ---
 
-##### [← Physics Home](Physics%20Home%20-%20Year%2011)
+##### [[../Physics Home - Year 11|← Physics Home]]
 
 ### Newton's Laws of Motion
 - ##### Newton's First Law (Inertia)

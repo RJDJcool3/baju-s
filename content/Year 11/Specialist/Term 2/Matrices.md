@@ -2,7 +2,7 @@
 title: Matrices
 ---
 
-##### [← Specialist Home](Specialist%20Home%20-%20Year%2011)
+##### [[../Specialist Home - Year 11|← Specialist Home]]
 
 ### Introduction to Matrices
 - Intro Video - 3Blue1Brown: 
