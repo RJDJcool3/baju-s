@@ -1,5 +1,5 @@
 ---
-title: Baju's
+title: Baju's Learning
 ---
 
 ## Year 11
