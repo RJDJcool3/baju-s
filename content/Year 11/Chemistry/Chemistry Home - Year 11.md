@@ -9,7 +9,7 @@ title: Chemistry Home - Year 11
 - [[Periodic Trends]]
 
 ##### Bonding, Intermolecular Forces and Properties
-- [[Properties of Matter]]
+- [Properties of Matter](Properties%20of%20Matter)
 - [[Solubility]]
 - [[Chromatography]]
 
