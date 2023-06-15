@@ -1,5 +1,5 @@
 ---
-title: bajus
+title: Baju's
 ---
 
 ## Year 11
