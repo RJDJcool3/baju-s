@@ -11,3 +11,4 @@ title: English Home - Year 11
 - [[Term 2/Important Concepts|Important Concepts]]
 - [[Term 2/Language Features|Language Features]]
 - [[Term 2/English Persuasive Scaffold|English Persuasive Scaffold]]
+- [[Term 2/Crazy Rich Asians|Crazy Rich Asians]]

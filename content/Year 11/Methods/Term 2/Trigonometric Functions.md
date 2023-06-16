@@ -95,6 +95,7 @@ top=2; bottom=-2; right=5; left=-5;
 - Using the addition formulas, we can derive useful expressions for $\sin(2a)$, $\cos(2a)$ and $\tan(2a)$
 	- We know $2a = a + a$
 	- $\therefore \cos(2a) = \cos(a + a)$
+	- Make sure you know how to [[Trigonometric Functions#Complementary Relationships|convert]] between sine and cosine so you can utilise the double angle formula
 - $\sin(2a) = 2\sin{a}\cos{a}$
 	- $\sin(a + a) = \sin{a}\cos{a} + \cos{a}\sin{a}$
 - $\cos(2a) = 1 - 2\sin^2a$
