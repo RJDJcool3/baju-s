@@ -86,4 +86,29 @@ title: Matrices
 		- $A^{-1} = \frac{1}{ad\ -\ bc}[{d \atop -c}{-b \atop a}]$
 			- $ad - bc \neq 0$
 - ##### The Determinant
-	- 
+	- The quantity $ad - bc$ in the inverse formula has a special name, the <span style="color:yellow;">determinant</span>
+		- Notated as $det(A$)
+	- If $det(A$) = $0$ than $A$ <u>does not have</u> an <span style="color:orange;">inverse</span>
+
+### Simultaneous Equations Using Matrices
+- [[Cambridge Specialist.pdf#page=452|Cambridge Matrices - 15E]]
+- Simultaneous equations can be written and solved as a matrix multiplication equation
+	- Using matrices we can treat the simultaneous equation as one equation and then cancel out matrices on either end until we solve for the desired values
+- For example, consider the pair of simultaneous equations:
+	- $3x - 2y = 5,\ \ 5x - 3y = 9$
+	- This can be written as a matrix equation:
+		- $[{3 \atop 5}{-2 \atop -3}][{x \atop y}] = [{5 \atop 9}]$
+	- Let $A$ = $[{3 \atop 5}{-2 \atop -3}]$. The <span style="color:yellow;">determinant</span> of $A$ is $3(-3) - (-2)5 = 1$.
+	- Since the <span style="color:yellow;">determinant</span> is non-zero, the <span style="color:orange;">inverse</span> matrix exists:
+		- $A^{-1} = [{-3 \atop -5}{2 \atop 3}]$
+		- Remember that the coefficient for the <span style="color:orange;">inverse</span> is not always 1! Use the full formula to find the <span style="color:orange;">inverse</span> matrix
+	- Now multiply both sides of the original matrix equation by $A^{-1}$:
+		- $A^{-1}A[{x \atop y}] = A^{-1}[{5 \atop 9}]$
+		- $I[{x \atop y}] = [{-3 \atop -5}{2 \atop 3}][{5 \atop 9}]$
+			- Since $A^{-1}A = I$
+		- $\therefore [{x \atop y}] = [{3 \atop 2}]$
+			- Since $IX = X$
+		- $x = 3,\ \ y = 2$
+- When the <span style="color:yellow;">determinant</span> for the given matrix is not $0$, than the equation can be solved by isolating the matrix with unknown variables by multiplying both sides by the <span style="color:orange;">inverse</span> of the given matrix
+- If the <span style="color:yellow;">determinant</span> $= 0$ than the simultaneous equations have no solution
+	- e.g. $x = 2y = 3, \ -2x - 4y = 6$ has no solution as the discriminant of the matrix $[{1 \atop -2}{2 \atop -4}]$ is equal to 0 and so the matrix has no <span style="color:orange;">inverse</span>
