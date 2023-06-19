@@ -26,10 +26,10 @@ title: Trigonometric Functions
 
 |                 | Degrees                                                                   | Radians                                         |
 | --------------- | ------------------------------------------------------------------------- | ----------------------------------------------- |
-| Arc Length      | $\frac{\theta}{360\textdegree} × \ 2{\pi}r$                               | $\frac{\theta}{2{\pi}} × \ 2{\pi}r = {\theta}r$ |
+| Arc Length      | $\frac{\theta}{360\degree} × \ 2{\pi}r$                               | $\frac{\theta}{2{\pi}} × \ 2{\pi}r = {\theta}r$ |
 | Chord Length    | $2r\  ×\ \sin{\frac{\theta}{2}}$                                          | Is the same                                     |
-| Area of Sector  | $\frac{\theta}{360\textdegree} × \ {\pi}r^2$                              | $\frac{r^2{\theta}}{2}$                         |
-| Area of Segment | $\frac{\theta}{360\textdegree} × \ 2{\pi}r - \frac{r^2{\sin}{\theta}}{2}$ | $\frac{1}{2}r^2(\theta - \sin\theta)$           |
+| Area of Sector  | $\frac{\theta}{360\degree} × \ {\pi}r^2$                              | $\frac{r^2{\theta}}{2}$                         |
+| Area of Segment | $\frac{\theta}{360\degree} × \ 2{\pi}r - \frac{r^2{\sin}{\theta}}{2}$ | $\frac{1}{2}r^2(\theta - \sin\theta)$           |
 
 ### Trigonometric Graphs
 - #### Sine and Cosine Graphs
