@@ -18,7 +18,7 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description: Welcome to Baju's Learning! We make learning engaging & effective, so that you are ready to achieve your goals.
-page_title: "<image> source src="BAJUS.png" width '969' height '257' </image>"
+page_title: "Baju's"
 links:
   - link_name: GitHub
     link: https://github.com/RJDJcool3
