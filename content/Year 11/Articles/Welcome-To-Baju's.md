@@ -1,8 +1,8 @@
 ---
-title: 2023-06-19 Welcome-To-Baju's
+title: Welcome-To-Baju's
 ---
 
-[← Articles Homepage](Articles.md)
+[← Articles Homepage](../⌂%20Home%20Page/Articles.md)
  
 Hello all
 
