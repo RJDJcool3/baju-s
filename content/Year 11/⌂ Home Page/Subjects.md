@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Subjects
 ---
 
 ## Year 11
