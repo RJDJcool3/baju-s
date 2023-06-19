@@ -17,8 +17,8 @@ search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description: Welcome to Baju's Learning! We make learning engaging & effective, so that you are ready to achieve your goals as the leader in the Indian education-tech sector.
-page_title: "Baju's Learning"
+description: Welcome to Baju's Learning! We make learning engaging & effective, so that you are ready to achieve your goals.
+page_title: "Baju's"
 links:
   - link_name: GitHub
     link: https://github.com/RJDJcool3
