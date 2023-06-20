@@ -2,7 +2,7 @@
 title: Rates of Change
 ---
 
-##### [[../Methods Home - Year 11|← Methods Home - Year 11]]
+##### [[../Methods Home - Year 11|← Methods Home]]
  
 ### Introduction to Rates of Change
 - Rates of change is the same as the gradient on a graph
