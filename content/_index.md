@@ -4,7 +4,9 @@ title: Baju's
 
 > [!summary]- Baju's
 > 
-> Here at Baju's we make learning engaging & effective, so that you are ready to achieve your goals. Baju's is an innovative global edtech leader at the intersection of content, media and technology. As the leader in the Indian tech and education industry, we bring the future of education to the present through technology-enabled, personalized and engaging learning journeys. 
+> Here at Baju's we make learning engaging & effective, so that you are ready to achieve your goals. Baju's is an innovative global edtech leader at the intersection of content, media and technology. 
+> 
+> As the leader in the Indian tech and education industry, we bring the future of education to the present through technology-enabled, personalized and engaging learning journeys. 
 
 Hello! I'm [[Year 11/Articles/About Me|Ajay]] (or Bajay, or Ajay Bajay, or whatever you want to call me), this is my website of notes from Obsidian, which I was bullied into using by Jonathan Lee. Thank you Jonathan. If something seems off in this website, it was probably Jonathan who wrote it. Thank you to [Jonathan](https://github.com/nottaro), [Oscar](https://github.com/notmario) and [Edward](https://github.com/eddietheed) for being a massive help in setting this up!
 
