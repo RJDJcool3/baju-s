@@ -15,3 +15,4 @@ title: Subjects
 ### Other Key Items
 - Excalidraw Diagrams: #excalidraw 
 - [[../Other/Important Documents/Markdown Formatting Guide|Markdown Formatting Guide]]
+- [[../Specialist/Course Documents/Bajay's ClassPad Guide|Bajay's ClassPad Guide]]
