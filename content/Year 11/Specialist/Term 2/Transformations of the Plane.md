@@ -4,7 +4,7 @@ title: Transformations of the Plane
 
 ##### [[../../Specialist/Specialist Home - Year 11|← Specialist Home]]
 
-Textbook: [[Cambridge Specialist.pdf#page=460|Cambridge Chapter 16]]
+Textbook: [[Cambridge Specialist.pdf#page=460|Cambridge - Chapter 16]]
 
 ### Linear Transformations
 - Transformations in the 2D plane are ways of systematically changing all points in the plane ($x,\ y$) to a new point in the plane ($x',\ y'$)
@@ -36,3 +36,20 @@ Textbook: [[Cambridge Specialist.pdf#page=460|Cambridge Chapter 16]]
 			- This can be represented in matrix multiplication: $[{x' \atop y'}] = [{1 \atop 0}{\ 0 \atop -1}][{x \atop y}]$
 		- A reflection in the y-axis is defined by $(x,\ y) → (−x,\ y)$
 			- This can be represented in matrix multiplication: $[{x' \atop y'}] = [{-1 \atop 0}{\ 0 \atop 1}][{x \atop y}]$
+	- Reflection in the line $y = x$ and $y = -x$
+		- A reflection in the line $y = x$ is defined by $(x,\ y) → (y,\ x)$
+			- This can be represented in matrix multiplication: $[{x' \atop y'}] = [{0 \atop 1}{\ 1 \atop 0}][{x \atop y}]$
+			  ![[ReflectionOverLineYX|250]]
+		- A reflection in the line $y = -x$ is defined by $(x,\ y) → (-y,\ -x)$
+			- This can be represented in matrix multiplication: $[{x' \atop y'}] = [{0 \atop -1}{\ -1 \atop 0}][{x \atop y}]$
+			  ![[ReflectionOverLineY-X|250]]
+
+##### Dilations
+- Dilation is the process of stretching a shape on the graph from an axis by multiplying points by a value
+	- Dilation from the $y$-axis and $x$-axis
+		- A dilation from the $y$-axis is defined by $(x,\ y) → (cx,\ y)$ where $c > 0$
+			- The $x$-coordinate is scaled by a factor of $c$, but the $y$-coordinate is unchanged
+		- A dilation from the $x$-axis is defined by $(x,\ y) → (x,\ cy)$ where $c > 0$
+			- The $y$-coordinate is scaled by a factor of $c$, but the $x$-coordinate is unchanged
+		- A dilation along both the $x$-axis and $y$-axis is defined by $(x, y) → (cx, dy)$ where $c$ and $d > 0$
+		- If $c$ or $d$ were negative it would also involve a reflection and therefore, a pure dilation requires $c$ to be greater than $0$
