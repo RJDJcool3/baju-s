@@ -2,7 +2,7 @@
 title: Economics Home - Year 11
 ---
 
-##### [[../⌂ Home Page/Subjects|← Subjects]]
+##### [[../../⌂ Home Page/Subjects|← Subjects]]
 
 ### Course Documents
 - [[Course Documents/2023 Year 11 ECO student Course Outline updated.pdf|Course & Assessment Outline]]
@@ -14,3 +14,4 @@ title: Economics Home - Year 11
 
 ### Unit 2
 - [[Term 2/Introduction to Macroeconomics|Introduction to Macroeconomics]]
+- [[Term 2/Economic Growth|Economic Growth]]

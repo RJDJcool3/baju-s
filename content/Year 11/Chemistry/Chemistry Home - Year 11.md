@@ -2,7 +2,7 @@
 title: Chemistry Home - Year 11
 ---
 
-##### [[../⌂ Home Page/Subjects|← Subjects]]
+##### [[../../⌂ Home Page/Subjects|← Subjects]]
 
 ##### Course Outline
 - [[Course Documents/Year 11 Chemistry Program 2023.pdf|Course Outline]]

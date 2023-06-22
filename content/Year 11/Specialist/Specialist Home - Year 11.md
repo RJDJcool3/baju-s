@@ -2,7 +2,7 @@
 title: Specialist Home - Year 11
 ---
 
-##### [[../⌂ Home Page/Subjects|← Subjects]]
+##### [[../../⌂ Home Page/Subjects|← Subjects]]
 
 ### Course Documents
 - [[Course Documents/AEMAS_CO 2023.pdf|Course Outline]]

@@ -2,7 +2,7 @@
 title: Physics Home - Year 11
 ---
 
-##### [[../⌂ Home Page/Subjects|← Subjects]]
+##### [[../../⌂ Home Page/Subjects|← Subjects]]
 
 ### Course Documents
 - [[Course Documents/Physics__ATAR_Year_11_Course__Outline_WACE_2023_1.pdf|Course Outline]]

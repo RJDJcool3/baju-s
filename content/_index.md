@@ -14,11 +14,11 @@ I am a member of the town. Their sites can be found below.
 
 > [!info] Sections
 > 
-> [[Year 11/⌂ Home Page/Subjects|Subjects]]
+> [[⌂ Home Page/Subjects|Subjects]]
 > 
-> [Articles](Year%2011/⌂%20Home%20Page/Articles.md)
+> [Articles](⌂%20Home%20Page/Articles.md)
 > 
-> [[Other Town Sites]]
+> [[⌂ Home Page/Other Town Sites]]
 
 Originally my notes were on OneNote (suffering) and a lot of them are still on there. Unfortunately unless you are on the Notes OneNote for 2023, you won't be able to access them. However I'm sure you can find use for all my notes on Obsidian! 
 

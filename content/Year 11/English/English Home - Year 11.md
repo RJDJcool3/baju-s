@@ -2,7 +2,7 @@
 title: English Home - Year 11
 ---
 
-##### [[../⌂ Home Page/Subjects|← Subjects]]
+##### [[../../⌂ Home Page/Subjects|← Subjects]]
 
 ### Course Outline
 - [[Course Documents/AEENG Course Outline - 2023.pdf|Course Outline]]

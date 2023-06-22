@@ -2,7 +2,7 @@
 title: Markdown Formatting Guide
 ---
 
-##### [[../../⌂ Home Page/Subjects|← Subjects]]
+##### [[../../../⌂ Home Page/Subjects|← Subjects]]
 
 ### Emphasis
 - **This is a bold sentence.** __This is also a bold sentence__
