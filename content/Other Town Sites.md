@@ -6,7 +6,6 @@ title: Other Town Sites
 
 > [!info]+ Very Cool Websites
 > 
- > - nottaro: [Littleroot](https://nottaro.github.io/littleroot/)
  > - EddieTheEd: [Ed's Obsidian Notes](https://obsidiannotes-v-4.pages.dev/)
  > - notmario: [the notes](https://notmario.github.io/thenotes/)
  > - nottacoz: [Jacaranda](https://nottacoz.github.io/jacaranda/)
