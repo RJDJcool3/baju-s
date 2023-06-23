@@ -111,14 +111,27 @@ title: Acids and Bases
 		- <u>Water</u> can accept or donate protons; it can act as <u>an acid or a base</u>
 - A base is a proton acceptor
 
-### Strong and Weak Acids
-- The strength of an acid refers to how much of that acid ionises in an aqueous solution releasing a proton
+### Strong and Weak Acids and Bases
+- Acids and bases of the same concentration in controlled conditions do not ionise at the same rate
+	- We describe the rate/amount an acid or base ionises as its 'strength'
+	  
+##### Strong and Weak Acids
+- The strength of an acid refers to the amount of acid that ionises in solution
 - Strong acids dissociate fully
-	- e.g. HCl, H$_2$SO$_4$, HNO$_3$, etc.
-	- HCl → Cl$^-$ + H$_3$O$^+$
+	- e.g. $HCl,\ H_2SO_4,\ HNO_3,$ etc.
+	- $HCl → Cl^-_{(aq)} +\ H_3O^+_{(aq)}$
 - Weak acids dissociate partially
-	- e.g. CH$_3$COOH
-	- CH$_3$COOH $\rightleftharpoons$ CH$_3$COO$^-$ + H$_3$O$^+$
+	- e.g. $CH_3COOH$
+	- $CH_3COOH \rightleftharpoons CH_3COO_{(aq)}^- + H_3O_{(aq)}^+$
+
+##### Strong and Weak Bases
+- The strength of a base refers to the amount of base that ionises in solution
+- Strong bases dissociate fully
+	- e.g. $NaOH,\ KOH,\ Ca(OH)_2$, etc.
+	- $NaOH → Na^+_{(aq)} + OH^-_{(aq)}$
+- Weak bases dissociate partially
+	- e.g. $NH_3$
+	- $NH_3 \rightleftharpoons NH_{4\ (aq)}^+ + OH_{(aq)}^-$
 
 ### Salts
 - Salt is a substance that forms when hydrogen in an acid is substituted by metal ion
