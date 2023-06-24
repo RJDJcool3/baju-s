@@ -2,7 +2,7 @@
 title: Important Concepts
 ---
 
-##### [← English Home](English%20Home%20-%20Year%2011)
+##### [[../English Home - Year 11|← English Home]]
 
 ### Representations
 - Representation means to re-present something

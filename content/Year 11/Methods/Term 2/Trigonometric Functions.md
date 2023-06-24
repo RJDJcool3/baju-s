@@ -2,7 +2,7 @@
 title: Trigonometric Functions
 ---
 
-##### [← Methods Home](Methods%20Home%20-%20Year%2011)
+##### [[../Methods Home - Year 11|← Methods Home]]
 
 ### Exact Values
 ##### Degrees - Table of Exact Values
@@ -26,10 +26,10 @@ title: Trigonometric Functions
 
 |                 | Degrees                                                                   | Radians                                         |
 | --------------- | ------------------------------------------------------------------------- | ----------------------------------------------- |
-| Arc Length      | $\frac{\theta}{360\textdegree} × \ 2{\pi}r$                               | $\frac{\theta}{2{\pi}} × \ 2{\pi}r = {\theta}r$ |
+| Arc Length      | $\frac{\theta}{360\degree} × \ 2{\pi}r$                               | $\frac{\theta}{2{\pi}} × \ 2{\pi}r = {\theta}r$ |
 | Chord Length    | $2r\  ×\ \sin{\frac{\theta}{2}}$                                          | Is the same                                     |
-| Area of Sector  | $\frac{\theta}{360\textdegree} × \ {\pi}r^2$                              | $\frac{r^2{\theta}}{2}$                         |
-| Area of Segment | $\frac{\theta}{360\textdegree} × \ 2{\pi}r - \frac{r^2{\sin}{\theta}}{2}$ | $\frac{1}{2}r^2(\theta - \sin\theta)$           |
+| Area of Sector  | $\frac{\theta}{360\degree} × \ {\pi}r^2$                              | $\frac{r^2{\theta}}{2}$                         |
+| Area of Segment | $\frac{\theta}{360\degree} × \ 2{\pi}r - \frac{r^2{\sin}{\theta}}{2}$ | $\frac{1}{2}r^2(\theta - \sin\theta)$           |
 
 ### Trigonometric Graphs
 - #### Sine and Cosine Graphs
@@ -60,7 +60,7 @@ title: Trigonometric Functions
 			- The $x$-intercepts are $x$ = $\frac{k\pi}{b}$
 
 ### Complementary Relationships
-- [Cambridge 12L](Cambridge%20Methods%20(Outdated).pdf#page=444)
+- [[../Course Documents/Textbooks/Cambridge Methods (Outdated).pdf#page=444|Cambridge - Circular Functions 12L]]
 - From a graph of $\textcolor{#427fbb}{\sin(\theta)}$ and $\textcolor{red}{\cos(\theta)}$ we can observe that we can transform both graphs into each other by shifting them horizontally
 	- $\sin(\frac{\pi}{2} + \ \theta) = \cos(\theta)$
 		- The $\sin$ graph is shifted to the left
@@ -85,7 +85,7 @@ top=2; bottom=-2; right=5; left=-5;
 	- $\textcolor{gold}{\sin^2\theta+\cos^2\theta = 1}$
 	  
 ### Angle Sum and Difference Identities
-- [Cambridge 12M](Cambridge%20Methods%20(Outdated).pdf#page=447)
+- [[../Course Documents/Textbooks/Cambridge Methods (Outdated).pdf#page=447|Cambridge - Circular Functions 12M]]
 	- Proofs in textbook
 - $\sin(A \pm B) = \sin{A}\cos{B} \pm \cos{A}\sin{B}$
 - $\cos(A \pm B) = \cos{A}\cos{B} \mp \sin{A}\sin{B}$
@@ -95,6 +95,7 @@ top=2; bottom=-2; right=5; left=-5;
 - Using the addition formulas, we can derive useful expressions for $\sin(2a)$, $\cos(2a)$ and $\tan(2a)$
 	- We know $2a = a + a$
 	- $\therefore \cos(2a) = \cos(a + a)$
+	- Make sure you know how to [[Trigonometric Functions#Complementary Relationships|convert]] between sine and cosine so you can utilise the double angle formula
 - $\sin(2a) = 2\sin{a}\cos{a}$
 	- $\sin(a + a) = \sin{a}\cos{a} + \cos{a}\sin{a}$
 - $\cos(2a) = 1 - 2\sin^2a$

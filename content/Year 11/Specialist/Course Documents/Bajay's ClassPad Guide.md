@@ -1,3 +1,9 @@
+---
+title: Bajay's ClassPad Guide
+---
+
+[[../../../⌂ Home Page/Subjects|← Subjects]]
+
 > [!info] Remember you can put functions within a function!
 > 
 - ### General Functions:

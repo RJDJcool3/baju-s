@@ -2,7 +2,7 @@
 title: Chromatography
 ---
 
-##### [← Chemistry Home](Chemistry%20Home%20-%20Year%2011)
+##### [[../Chemistry Home - Year 11|← Chemistry Home]]
 
 ### Introduction
 - Chromatography is a group of techniques used to separate mixtures of compounds

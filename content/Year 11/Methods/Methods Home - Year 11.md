@@ -2,7 +2,8 @@
 title: Methods Home - Year 11
 ---
 
-##### [← Home Page](Home%20Page.md)
+##### [[../../⌂ Home Page/Subjects|← Subjects]]
 
 ### Unit 1
-- [Trigonometric Functions](Trigonometric%20Functions.md)
+- [[Term 2/Trigonometric Functions|Trigonometric Functions]]
+- [[Term 2/Rates of Change|Rates of Change]]

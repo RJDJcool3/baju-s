@@ -2,13 +2,13 @@
 title: Vectors
 ---
 
-##### [← Specialist Home](Specialist%20Home%20-%20Year%2011)
+##### [[../Specialist Home - Year 11|← Specialist Home]]
 
 ### Important Links
-- [Cambridge](Cambridge%20Specialist.pdf) - Chapter 17
-- [Sadler](Sadler.pdf) - Chapter 3
-- [[Bajay's ClassPad Guide]]
-- [Vectors with Noah](Vectors_Noah.pdf)
+- [[../Course Documents/Textbook/Cambridge Specialist.pdf#page=498|Cambridge Vectors]]
+- [[../Course Documents/Textbook/Sadler.pdf#page=65|Sadler Vectors]]
+- [[../Course Documents/Bajay's ClassPad Guide|Bajay's ClassPad Guide]]
+- [[Vectors_Noah.pdf|Vectors with Noah]]
 
 ### Vector Symbols
 - $\vec{AB}$ - A vector

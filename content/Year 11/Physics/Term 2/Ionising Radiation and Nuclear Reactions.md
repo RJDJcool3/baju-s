@@ -2,7 +2,7 @@
 title: Ionising Radiation and Nuclear Reactions
 ---
 
-##### [← Physics Home](Physics%20Home%20-%20Year%2011)
+##### [[../Physics Home - Year 11|← Physics Home]]
 
 ### Isotopes and Radioisotopes
 - Isotopes are variations of an element with different numbers of neutrons
