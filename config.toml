@@ -1,4 +1,4 @@
-baseURL = "https://baju-s.toomwn.xyz"
+baseURL = "https://baju-s.toomwn.xyz/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
