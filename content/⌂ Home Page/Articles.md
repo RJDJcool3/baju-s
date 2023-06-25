@@ -1,8 +1,6 @@
 ---
 title: Articles
 ---
- 
-[[../../_index|← Home Page]]
 
 > [!note] Introduction
 > 
