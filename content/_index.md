@@ -16,9 +16,9 @@ I am a member of the town. Their sites can be found below.
 > 
 > [[⌂ Home Page/Subjects|Subjects]]
 > 
-> [Articles](⌂%20Home%20Page/Articles.md)
+> [[⌂ Home Page/Articles|Articles]]
 > 
-> [[⌂ Home Page/Other Town Sites]]
+> [[⌂ Home Page/Other Town Sites|Other Town Sites]]
 
 Originally my notes were on OneNote (suffering) and a lot of them are still on there. Unfortunately unless you are on the Notes OneNote for 2023, you won't be able to access them. However I'm sure you can find use for all my notes on Obsidian! 
 
