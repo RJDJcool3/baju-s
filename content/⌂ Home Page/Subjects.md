@@ -2,7 +2,7 @@
 title: Subjects
 ---
 
-[[../../_index|← Home Page]]
+[[../_index|← Home Page]]
 
 ## Year 11
 - [[Year 11/Specialist/Specialist Home - Year 11|11SpecialistATAR]]
