@@ -2,6 +2,8 @@
 title: Other Town Sites
 ---
 
+[← Home Page](https://baju-s.toomwn.xyz)
+
 > [!info]+ Very Cool Websites
 > 
  > - EddieTheEd: [Ed's Obsidian Notes](https://obsidiannotes-v-4.pages.dev/)

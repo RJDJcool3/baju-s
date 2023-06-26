@@ -2,6 +2,7 @@
 title: Articles
 ---
 
+[← Home Page](https://baju-s.toomwn.xyz)
 
 > [!note] Introduction
 > 

@@ -3,6 +3,7 @@ title: Baju's
 ---
 
 > [!summary]- Baju's
+> 
 > Here at Baju's we make learning engaging & effective, so that you are ready to achieve your goals. Baju's is an innovative global edtech leader at the intersection of content, media and technology. 
 > 
 > As the leader in the Indian tech and education industry, we bring the future of education to the present through technology-enabled, personalized and engaging learning journeys. 
