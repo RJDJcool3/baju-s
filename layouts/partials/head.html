@@ -67,7 +67,8 @@
   {{ $s := resources.Get $scriptname | resources.ExecuteAsTemplate $scriptname . | resources.Fingerprint "md5" | resources.Minify }}
   <script src="{{$s.Permalink}}"></script>
   {{end}}
-  {{partial "mathjax.html" .}}
+  
+  {{partial "katex.html" .}}
 
   {{partial "mermaid.html" .}}
 
