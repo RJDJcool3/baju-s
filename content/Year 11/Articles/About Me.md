@@ -2,7 +2,6 @@
 title: About Me
 ---
 
-[[../../_index|← Home Page]]
  
 My name is Ajay Bisnath, I think writing stuff on the internet about yourself is unnecessary but my best friend did it and now I feel obliged.
 

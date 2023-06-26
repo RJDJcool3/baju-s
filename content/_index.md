@@ -23,12 +23,14 @@ Originally my notes were on OneNote (suffering) and a lot of them are still on t
 
 Don't be afraid to ask for my help for anything (except English), I'm a good listener, teacher and an ex-student councillor.
 
-> [!warning]- Quartz doesn't like Excalidraw (Updated)
+> [!warning]- Quartz doesn't like Excalidraw & Callouts? (Updated)
 > 
 > I am a visual learner and thus I use many diagrams and drawings throughout my notes (90% are self-made). However since most of these are Excalidraw documents which are special text documents that are turned into images in Obsidian, they don't show up in my website (very sad). 
 > 
 > Before now, my website also formatted LaTeX equations (the fancy math stuff) in a funky way due to how Quartz processes LaTeX differently to Obsidian. However, now this issue should be fixed! There are some minor imperfections, but now equations are readable.
 > 
+> For some reason my dropdown callouts are not working, I don't know how you are going to read this since it is a dropdown callout but oh well. Someone please help me.
+> 
 > I am happy to send you diagrams that I have so just let me know on discord! 
 
-Big thank you to Jacky Zhao the creator of Quartz in which this website runs off. I don't know how it works, but it does. 
+Big thank you to Jacky Zhao the creator of Quartz in which this website runs off. I don't know how it works, but it does.

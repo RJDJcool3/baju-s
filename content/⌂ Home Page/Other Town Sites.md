@@ -2,8 +2,6 @@
 title: Other Town Sites
 ---
 
-[[../_index|← Home Page]]
-
 > [!info]+ Very Cool Websites
 > 
  > - EddieTheEd: [Ed's Obsidian Notes](https://obsidiannotes-v-4.pages.dev/)
