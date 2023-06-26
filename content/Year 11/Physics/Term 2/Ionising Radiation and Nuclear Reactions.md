@@ -49,22 +49,121 @@ title: Ionising Radiation and Nuclear Reactions
 - Nuclear equations must always show mass number, atomic number and chemical symbol for all components
 
 ### Fission and Fusion
+- Textbook: [[Pearson - Physics - Year 11.pdf#page=96|Pearson]]
 - <span style="color:orange;">Fission</span> is the process in which an atom is split by a neutron into smaller atoms
 	- Model Equation: ${x \atop y}A_p + {0\atop1}n → {x_1 \atop y_1}A_1 + {x_2 \atop y_2}A_2 + 2{0\atop1}n + {0\atop0}\gamma$
 		- $x_1 + x_2 = x,\ \ y_1 + y_2 = y$
+	- When a large nuclei is bombarded by a neutron, it usually causes it to become unstable which leads to it splitting into smaller fragments
 	- A fission reaction can emit 2 or 3 neutrons
 	- There can be more than two products however the combined mass and atomic number will still equal the parent atom's mass and atomic number
+	- Certain terms are used to describe nuclei in reference to fission:
+		- **Fissionable** refers to nuclide which **can** undergo fission
+		- **Fissile** refers to nuclides which will **readily** undergo fission
+			- e.g. $U^{235},\ U^{238},\ Pu^{239},\ Th^{232}$
+			- There are only a small number of fissile elements
+	- Chain Reaction: The products of 1 fission reaction acts as the successful reactant in further fission reactions
+	  ![[ChainReaction]]
+		- 3 ways to avoid a bomb:
+		  1. Concentration of fissile material
+		      - Percentage of isotope $U^{235}$ in uranium in uranium:
+			    - naturally ~ 0.7%
+			    - power station ~ 4%
+			    - bomb ~ 90%
+		  2. Amount of fuel
+		  3. Shape of fuel 
+	
 - <span style="color:pink;">Fusion</span> is the process in which two or more atoms are combined into a larger atom
 	- Model Equation: ${x_1 \atop y_1}A_1 + {x_2 \atop y_2}A_2 → {x \atop y}A_r$
 		- $x_1 + x_2 = x,\ \ y_1 + y_2 = y$
-	- The resultant atom will have the combine mass and atomic number of all the components
+	- The resultant atom will have the combine mass and atomic number of all the components 
 
-### Mass Defect
-- The mass defect is the difference between the expected total mass of a nucleus (mass of nucleons) and the actual total mass recorded (mass of nucleus)
-	- *Mass Defect = Mass of Nucleons - Mass of Nucleus*
-- The reason that the total mass is less than the expected mass is due to some mass becoming binding energy which helps hold the nucleus together
+### Nuclear Power Stations (Fission)
+- ##### Three Challenges for Thermal Nuclear Reactors:
+	1. Neutrons emitted by uranium-235 (fuel) are very fast but uranium-235 is most fissile when irradiated by **slow-moving neutrons**
+		- The emitted neutrons need to be slowed down to continue an efficient chain reaction
+	2. Uranium-235 fission emits an average of 2.47 neutrons which need to be controlled as **it could cause an explosion**
+	3. The heat generated in the reactor from the fission needs to be collected for electricity generation
+
+
+>[!tip]+ Uranium-235
+>
+>Uranium-235 is a readily fissile isotope of uranium. The more common isotope of uranium, $U^{238}$, is not fissile and makes up over 99% of naturally found uranium. This means naturally found uranium does not have enough uranium-235 to undergo chain-reactions.
+>
+>Due to how low of a proportion uranium-235 makes up of natural uranium, uranium must be enriched with uranium-235 to be used as a fuel source. The different isotopes can be separated due to their difference in mass, however, the process of enriching uranium is very difficult and expensive
+
+##### Components of a nuclear power station
+- Fuel Rods
+	- Fuel rods are long, thin rods the contain pellets of enriched uranium
+	- The fuel rods need to be able to sustain their own chain reaction
+	- Fuel rods use uranium with 4% uranium-235
+		- The enriched uranium (in pellet form) is packed into a thin aluminium tube 3-5 metres long
+		  
+		![[FuelRods.png|300]]
+	- A large nuclear reactor has over 1000 fuel rods in its core
+		- Fuel rods need to be replaced around every 4 years
+
+>[!abstract] Uranium-238 → Plutonium-239
+>While uranium-238 is not readily fissile, it is classified as 'fertile' because it can form plutonium-239 after capturing a fast neutron, a product of uranium-235 fission. Plutonium-239 is readily fissile and releases similar energy to uranium-235 allowing it to sustain the chain reaction.
+ 
+- Moderator
+	- A material that slows down the neutrons (easier to be captured by nuclides)
+		- e.g. water, heavy water, graphite, carbon dioxide
+			- Heavy water is the most effective moderator but is also the most expensive
+			- Water is the cheapest but absorbs a lot of neutrons reducing the extent of the chain reaction
+- Control Rods
+	- A nuclear reactor can also produce great amounts of energy but the energy release must be controlled
+		- This is achieved by controlling the number of neutrons that are involved in the fission chain reaction
+	- Control rods are material that absorbs excess neutrons
+		- e.g. cadmium, boron steel
+			- When a neutron strikes a control rod, it is absorbed into the nucleus of the material
+- Coolant
+	- The core of a nuclear reactor can reach very high temperature (500-1500$\degree$C)
+	- The coolant is a liquid that run through pipes to absorb heat energy that has been produced from the core
+		- e.g. water, heavy liquid, carbon dioxide, liquid sodium
+- Heat Exchanger
+	- A heat exchanger transfers the heat created in the reactor into pipes containing water
+		- This water is converted into high-pressure steam that is used to rotate the turbines that drive the generator
+- Radiation Shield
+	- The radiation shield protects workers and the surrounding environment from exposure to radiation leaks from the core of the reactor
+		- e.g. lead, concrete, graphite
+
+##### Nuclear Waste Management
+- Low Level Waste
+	- e.g. protective clothing, wrappings, containers of isotopes
+	- Processed by incineration, burying and *flushing*
+- Medium Level Waste
+	- e.g. reactor component, chemical sludge
+	- Processed by solidifying in concrete or burying
+- High Level Waste
+	- e.g. spent rods, liquid waste
+	- Processed by coolant ponds or kept in secure storage
+		- Spent fuel rods can be repurposed into new fuel, however the process is very expensive
+	- High-level waste must be stored permanently due to how long the half-lives are for the radioactive materials
+
+### Mass Defect and Nuclear Binding Energy
+- The mass of any given nuclide is <u>less</u> than the sum of the individual masses of the protons and neutrons of which it is composed
+	- i.e. there is a <span style="color:gold;"><u>mass defect</u></span>
+- The <span style="color:gold;">mass defect</span> is the difference between the expected total mass of a nucleus (mass of nucleons) and the actual total mass recorded (mass of nucleus)
+	- *<i><span style="color:gold;">Mass Defect</span></i> = Mass of Nucleons - Mass of Nucleus*
+- The reason that the total mass is less than the expected mass is due to some mass becoming converted to <span style="color:aqua;">nuclear binding energy</span> which is lost in order for the nucleus to hold together
 	- Energy and mass are interchangeable through the equation $E = mc^2$ 
-- The greater the binding energy, the more stable the nucleus
+	- The <span style="color:aqua;">nuclear binding energy</span> is not responsible for holding the nucleus together
+- The <span style="color:aqua;">nuclear binding energy</span> is the energy equivalent of the mass lost during nucleosynthesis
+	- The <span style="color:aqua;">nuclear binding energy</span> is the energy that would have to be <u>added</u> to the nucleus to restore the mass defect
+- The more <span style="color:aqua;">nuclear binding energy</span> per nucleon, the more stable the nuclei
+	- Iron-56 has the most stable nuclei
+
+##### Atomic Mass: (Atomic Mass Units - amu/u)
+- Proton: $1.007276$
+- Neutron: $1.008665$
+- $1\ u$ = one unified **atomic mass unit**
+
+##### Conversion Formulas: (From [[Physics_Formulae_and_Data_sheet_YEAR_11_2020.pdf|Formula Sheet]])
+- $1\ u = 1.66 \ ×\ 10^{-27}$kg (mass-to-mass)
+- $1\ u =931\ MeV$ (mass-to energy)
+- $1\ eV = 1.60\ ×\ 10^{-19}J$ (energy-to-energy)
+	- $1\ eV\ ×\ 10^{-6} = 1\ MeV$
+	- $1\ MeV = 1,000,000\ eV$
 
 ### Half-Life
 - Radioisotopes decay sporadically and thus can be difficult to measure the decay rate by normal means
