@@ -64,7 +64,7 @@ title: Chromatography
 		   ![|250](TLC_SilicaGel.png)
 		- Silica gel is **very polar**
 	- Solvent → Mobile Phase
-	  ![](Excalidraw/TLCChromatography|400|)
+	  ![|500](TLCChromatography)
 	- Method
 		- A dry sample is placed in the silica gel matrix
 			- A lid should be used on top of the beaker to prevent the solvent from evaporating
