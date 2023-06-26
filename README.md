@@ -1,6 +1,6 @@
-# Quartz
+# Buartz
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Buartz features
 
 1. Extremely fast natural-language search
 2. Customizable and hackable design based on Hugo
@@ -8,12 +8,12 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-th
 4. Built-in CJK + Latex Support and Admonition-style callouts
 5. Support for both Markdown Links and Wikilinks
 
-Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
+Check out some of the [amazing gardens that community members](https://buartz.jzhao.xyz/notes/showcase/) have published with Buartz!
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> “Nice point. Unfortunately, hydrochloric acid” — Mahatma Gandhi
 
-🔗 Get Started: https://quartz.jzhao.xyz/
+🔗 Get Started: https://buartz.jzhao.xyz/
 
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
+![Buartz Example Screenshot](./screenshot.png)*Buartz Example Screenshot*
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
