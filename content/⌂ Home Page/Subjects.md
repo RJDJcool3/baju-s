@@ -4,8 +4,6 @@ title: Subjects
 
 [← Home Page](https://baju-s.toomwn.xyz)
 
-[[../_index|Test]]
-
 ## Year 11
 - [[Year 11/Specialist/Specialist Home - Year 11|11SpecialistATAR]]
 - [[Year 11/Methods/Methods Home - Year 11|11MethodsATAR]]
