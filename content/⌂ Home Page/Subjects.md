@@ -10,6 +10,10 @@ title: Subjects
 
 [[../Baju-s]]
 
+[Home](https://rjdjcool3.github.io/baju-s/)
+
+[Home](https://baju-s.toomwn.xyz)
+
 ## Year 11
 - [[Year 11/Specialist/Specialist Home - Year 11|11SpecialistATAR]]
 - [[Year 11/Methods/Methods Home - Year 11|11MethodsATAR]]
