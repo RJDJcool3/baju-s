@@ -61,7 +61,7 @@ title: Chromatography
 		- However while the molecules in paper chromatography are separated based on mass, in TLC, separation often depends upon solubility or charge
 	- Silica Gel → Stationary Phase
 		- The silica gel is on top of a glass plate
-		   ![[TLC_SilicaGel.png|250]]
+		   ![|250](TLC_SilicaGel.png)
 		- Silica gel is **very polar**
 	- Solvent → Mobile Phase
 	  ![](Excalidraw/TLCChromatography|400|)
