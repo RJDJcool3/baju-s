@@ -8,6 +8,7 @@ title: Crazy Rich Asians
 - Crazy Rich Asians (2018) directed by Jon M. Chu
 - Genre: Romantic Comedy-Drama Film
 - Setting/Context: Modern-Day Singapore
+- Director: Jon M. Chu
 - Movie is in 3rd Person POV
 	- Follows Rachel Chu primarily
 - Tone and Mood
@@ -66,4 +67,4 @@ title: Crazy Rich Asians
 - Setting
 
 ### Quotes
-- TBA
+- Eleanor opens up about how Ah Ma did not believe Eleanor was good enough for her son on the stairs in Tyersall Park before telling Rachel "You will never be enough"
