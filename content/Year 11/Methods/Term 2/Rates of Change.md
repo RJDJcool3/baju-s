@@ -3,7 +3,7 @@ title: Rates of Change
 ---
 
 ##### [[../Methods Home - Year 11|← Methods Home]]
- 
+
 ### Introduction to Rates of Change
 - Rates of change is the same as the gradient on a graph
 	- It is the rate at which a value is increasing
@@ -31,6 +31,10 @@ title: Rates of Change
 	- e.g. the derivative of $x^2$ ($f(x) = x^2$) is $2x$
 	- See below for the full [[Rates of Change#Definition of the Derivative|definition]]
 
+> [!hint] Derivative Notation
+> 
+> The derivative of $f(x)$ is $f'(x)$
+
 ##### Limit Notation
 - The notation for the limit of $2x + h + 1$ as $h$ approached $0$ is ${\lim \atop h → 0}(2x\ +\ h\ +\ 1)$
 - The derivative of a function with rule $f(x)$ may be found by:
@@ -47,3 +51,52 @@ title: Rates of Change
 - The **derivative** of function $f$ is denoted $f'$ and is defined by:
 	- $f'(x) = {\lim \atop h → 0}\frac{f(x\ +\ h)\ -\ f(x)}{h}$
 - The **tangent line** to a graph of the function $f$ at the point $(a, f(a))$ is defined to be the line through $(a, f(a))$ with gradient $f'(a)$
+
+### Rules for Differentiation
+- There are certain rules that we observe in differentiation:
+	- Constant function: If $f(x) = c$, then $f'(x) = 0$
+	- Linear function: If $f (x) = mx + c$, then $f'(x) = m$
+	- Multiple: If $f (x) = k \cdot g(x)$, where $k$ is a constant, then $f'(x) = k \cdot g'(x)$
+		- The derivative of a number multiple is the multiple of the derivative
+		- For example: if $f(x) = 5x^2$, then $f'(x) = 5(2x) = 10x$
+	- Sum: If $f(x) = g(x) + h(x)$, then $f'(x) = g'(x) + h'(x)$
+		The derivative of the sum is the sum of the derivatives
+		For example: if $f(x) = x^2 + 2x$, then $f'(x) = 2x + 2$
+	- Difference: If $f(x) = g(x) - h(x)$, then $f'(x) = g'(x) - h'(x)$
+		The derivative of the difference is the difference of the derivatives
+		For example: if $f(x) = x^2 - 2x$, then $f'(x) = 2x - 2$
+
+> [!hint] The process of finding the derivative function is called differentiation
+
+##### Other Important Observations:
+- For $f(x) = x^n → f'(x) = nx^{n-1}$ , where $n$ is a non-zero integer
+	- This also works for negative powers
+		- e.g. $f(x) = x^{-3} → f'(x) = -3x^{-4}$
+- For $f(x) = c → f'(x) = 0$, where $c$ is a constant
+
+
+>[!example]+ Alternative Notation
+>
+>- **Lagrange Notation**
+>	- The derivative of $f(x)$ is written as $f'(x)$
+>- **Leibniz Notation**
+>	- The derivative of $y = f(x)$ is written as $\frac{dy}{dx}$
+
+
+### Graphs of the Derivative Function
+- Textbook: [[Cambridge Methods (Outdated).pdf#page=627|Cambridge 17F]]
+
+##### Increasing and Decreasing Functions
+- A function $f$ is **strictly increasing** on an interval if $x_2 > x_1$ implies $f(x_2) > f(x_1)$
+	- Strictly increasing means that the gradient <u>cannot be negative</u> at any point
+		- $f'(x)$ can be $0$, as seen at the turning point in a cubic function
+	- If $f'(x) > 0$ for all $x$ in the interval, then the function is strictly increasing
+- A function $f$ is **strictly decreasing** on an interval if $x_2 > x_1$ implies $f(x_2) < f(x_1)$
+	- Strictly decreasing means that the gradient <u>cannot be positive</u> at any point
+		- $f'(x)$ can still be $0$ as explained above
+	- If $f'(x) < 0$ for all $x$ in the interval, then the function is strictly decreasing
+
+>[!note]- Estimating a Derivative Graph of a Polynomial Function
+>
+> The graph of a derivative function for a **polynomial** will be the same as the polynomial graph of one less power
+> - e.g. the graph of $f'(x)$ when $f(x) = 2x^3 + 5x$ will be a parabola since the original function graph was a cubic
