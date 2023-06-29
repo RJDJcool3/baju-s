@@ -105,7 +105,7 @@ title: Ionising Radiation and Nuclear Reactions
 >[!abstract] Uranium-238 → Plutonium-239
 >
 >While uranium-238 is not readily fissile, it is classified as 'fertile' because it can form plutonium-239 after capturing a fast neutron, a product of uranium-235 fission. Plutonium-239 is readily fissile and releases similar energy to uranium-235 allowing it to sustain the chain reaction.
- 
+
 - Moderator
 	- A material that slows down the neutrons (easier to be captured by nuclides)
 		- e.g. water, heavy water, graphite, carbon dioxide
