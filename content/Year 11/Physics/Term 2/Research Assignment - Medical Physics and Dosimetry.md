@@ -4,8 +4,8 @@ title: Research Assignment - Medical Physics and Dosimetry
 
 ##### [[../Physics Home - Year 11|← Physics Home]]
 
-____________________________________
-Research and make notes on the following concepts:
+_______________________________
+**Research and make notes on the following concepts:**
 - The use of radioisotopes in diagnostic imaging including gamma cameras and
 PET scans
 - The use of radioisotopes in therapeutic treatments
@@ -21,27 +21,30 @@ __________________________________________
 	- A radiotracer (**radioactive tracer**) is a chemical compound in which one or more atoms have been replaced by a radioisotope
 - The gamma camera itself does not emit any radiation
 
-
 ##### Positron Emission Tomography (PET) Scans
-- <span style="color:lightblue;">Positron emission tomography (PET) scans</span> are a **medical imaging procedure** that provides unique information about how an organ or system in the body is working
-- A PET scan involves the injection of a small amount of a ‘**positron-emitting**’ *radiopharmaceutical*
-	- Radiopharmaceuticals are **pharmaceutical drugs** containing **radioisotopes**
+- <span style="color:lightblue;">Positron emission tomography (PET) scans</span> are a **medical imaging procedure** that provides information about how an organ or system in the body is working
+- Procedure:
+	- A PET scan involves the injection of a small amount of a **positron-emitting** *radiopharmaceutical*
+		- Radiopharmaceuticals are **pharmaceutical drugs** containing **radioisotopes**
+		- The radiopharmaceutical undergoes $\beta^+$ decay
 	- Images of the body are then taken using a PET scanner
-		- The **camera detects emissions** coming from the injected **radiopharmaceutical**, and the computer attached to the camera creates 2D and 3D images of the area being examined
-- PET scans are mainly used to assess cancers, neurological (brain) diseases and cardiovascular (heart-related) disease
-- PET scans are considered to be generally safe
-	- Only exposes you to radiation equal to the amount you would receive over three years naturally
+		- The PET scanner surround the patient, similar to a CT scanner, and it shaped like a donut
+			- PET scans are usually combined with CT scans for a better image
+		- The **camera detects emissions** coming from the injected **radiopharmaceutical** and the computer attached to the camera creates 2D and 3D images of the area being examined
+- Why are PET scans used?
+	- PET scans are mainly used to assess cancers, neurological diseases and cardiovascular disease
+	- PET scans are considered to be generally safe
+		- Only exposes you to radiation equal to the amount you would receive over three years naturally
 
 ____________________
 ### Use of Radioisotopes in Therapeutic Treatments
 - Two types of radioisotope treatment:
 	- External → Teletherapy or external irradiation
 	- Internal → Brachytherapy or internal radionuclide therapy
-- Teletherapy
-- Brachytherapy
-	- Radioisotopes can be used to kill cancer cells
-		- As the radioisotope begins to decay, it affects the targeted tissue or tumour, because cancer cells absorb more of the radioisotope than non-cancer cells do 
-		- The higher dose of radiation eventually destroys the cancer cells
+- Radioisotopes can be used to kill cancer cells
+	- As the radioisotope begins to decay, it affects the targeted tissue or tumour, because cancer cells absorb more of the radiation than non-cancer cells do (see below)
+	- The higher dose of radiation eventually destroys the cancer cells
+	- Radioisotopes are used due to the enhanced damaging effect on cancer cells which can sometimes allow a lower dose of radiation, lowering the damage to healthy tissue
 
 > [!hint]+ Why do Cancer Cells Take More Damage from Radiation?
 >
