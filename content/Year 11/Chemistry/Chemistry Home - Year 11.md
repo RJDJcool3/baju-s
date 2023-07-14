@@ -19,4 +19,5 @@ title: Chemistry Home - Year 11
 
 ##### Acids and Stoichiometry
 - [[Term 2/Acids and Bases|Acids and Bases]]
+	- [[Term 3/Aqueous Environment|Aqueous Environment]]
 - [[Term 2/Stoichiometry|Stoichiometry]]
