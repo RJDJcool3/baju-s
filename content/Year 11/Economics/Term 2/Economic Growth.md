@@ -2,7 +2,7 @@
 title: Economic Growth
 ---
 
-##### [[../Economics Home - Year 11|← Economics Home]]
+##### [← Economics Home](Economics%20Home%20-%20Year%2011)
 
 ### What is Economic Growth & Why is it Important?
 - [[Term 2/Economic Growth.pdf|Economic Growth PDF]]
@@ -21,33 +21,40 @@ title: Economic Growth
 			- The capacity of the economy
 		- Determinants of potential growth involve factors the influence the quantity and/or quality of factors of production
 			- These affect the supply side of the economy.
-- <span style="color:aqua;">Investment</span> and Economic Growth
-	- Allocating scarce funds to capital goods is known as real <span style="color:aqua;">investment</span>
-	- To achieve potential growth, the economy must use more of its resources to produce capital rather than consumer goods
-		- Standards of living are reduced in the short run as resources are diverted away from private consumption
-		- However, the increased investment in capital goods enables more output of consumer goods to be produced in the long run
-			- Standards of living will increase in the future more than they would have if the economy had not made a short-term sacrifice
-			- Economies face a choice between short-term vs long-term benefit
-- <span style="color:aqua;">Investment</span> in New Technology
-	- Potential growth increases because new technology is inevitably more efficient than old technology
-		- Production can increase because the new technology is more efficient
-			- Output does not necessarily increase
-	- Actual growth increases due to <span style="color:aqua;">investment</span>
-		- There is a transaction to buy the new technology which becomes a part of the GDP
-- Failure to <span style="color:aqua;">Invest</span>
-	- Depreciation will reduce an economy's capacity
-		- Machines will worsen and break over time
-		- New workers need to be educated
-	- Investments in human and real capital need to <u>compensate for depreciation</u>
-		- If investment does not happens, the PPF will slowly shift inward
-	- Human capital refers to work force
-	- Real capital refers to machines/technology
-- Erosion of Infrastructure (and Human Capital)
-	- Military conflict or national disasters can destroy factories, people, infrastructure, etc.
-- <span style="color:red;">Asymmetric</span> Growth
-	- A economy can grow from increased productivity in one sector of the economy
-		- This is <span style="color:red;">asymmetric</span> growth
-	- If an improvement in technology applied to the motor vehicle industry, but not to the food industry, it would be illustrated by a shift of the PPF from one axis only
+
+#### Investment and Economic Growth
+- Allocating scarce funds to capital goods is known as **real investment**
+
+##### Impact of Investment
+- To achieve potential growth, more resources should go to **producing capital goods** over consumer goods
+	- **Standards of living (SOL)** are **reduced in the short run** as resources are diverted away from private consumption
+- However, increased investment in capital goods → greater output of **consumer goods** in the **long run**
+	- SOL will increase in the future more than they would have if the economy had not made a short-term sacrifice
+	- Economies face a **choice** between **short-term vs long-term** benefit
+
+##### Investment in New Technology
+- Potential growth increases because new technology is inevitably more efficient than old technology
+	- Production can increase because the new technology is more efficient
+		- Output does not necessarily increase
+- Actual growth increases due to <span style="color:aqua;">investment</span>
+	- There is a transaction to buy the new technology which becomes a part of the GDP
+
+##### Failure to Invest
+- Depreciation will reduce an economy's capacity
+	- Machines will worsen and break over time
+	- New workers need to be educated
+- Investments in human and real capital need to <u>compensate for depreciation</u>
+	- If investment does not happens, the PPF will slowly shift inward
+- Human capital refers to work force
+- Real capital refers to machines/technology
+
+#### Erosion of Infrastructure and Human Capital
+- Military conflict or national disasters can destroy factories, people, infrastructure, etc.
+
+#### Asymmetrical Growth
+- *Asymmetric growth* is when economic growth occurs from **increased productivity** in **one sector** of the economy
+- If an improvement in technology applied to the motor vehicle industry, but not to the food industry, the PPF curve would shift from one axis only
+	- Example PPF: 
 	  ![[AsymetricalGrowth]]
 
 ### Benefits and Costs of Economic Growth
