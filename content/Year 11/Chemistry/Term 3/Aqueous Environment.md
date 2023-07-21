@@ -2,7 +2,7 @@
 title: Aqueous Environment
 ---
 
-##### [[Chemistry Home - Year 11|← Chemistry Home]]
+##### [[../Chemistry Home - Year 11|← Chemistry Home]]
 
 > **Topic Covers:**
 > 	- Water treatment to maintain safety for humans and the environment
