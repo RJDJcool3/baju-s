@@ -6,4 +6,5 @@ title: Methods Home - Year 11
 
 ### Unit 1
 - [[Term 2/Trigonometric Functions|Trigonometric Functions]]
-- [[Term 2/Rates of Change|Rates of Change]]
+- [[Term 2/Introduction to Differential Calculus|Introduction to Differential Calculus]]
+- [[Term 3/Applications of Differential Calculus|Applications of Differential Calculus]]

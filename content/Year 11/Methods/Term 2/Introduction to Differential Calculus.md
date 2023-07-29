@@ -1,17 +1,17 @@
 ---
-title: Rates of Change
+title: Introduction to Differential Calculus
 ---
 
 ##### [[../Methods Home - Year 11|← Methods Home]]
 
-### Introduction to Rates of Change
+### Rates of Change
 - Rates of change is the same as the gradient on a graph
 	- It is the rate at which a value is increasing
 - Gradient $(m)$ is $\frac{rise}{run}$
 	- $m = \frac{y_2\ -\ y_1}{x_2\ -\ x_1}$
 		- This equation calculates the rate of change between two points
 
-### Instantaneous Rate of Change
+#### Instantaneous Rate of Change
 - We know how to calculate the gradient (rate of change) between two points, but what happens when we want to find the gradient at one point, known as **instantaneous rate of change**
 - Lets say we are looking to find the <span style="color:gold;">instantaneous change</span> at point $a$ on the graph $f(x)$
 	- Since we need two points to calculate gradient, we imagine point $b$ also on the graph of $f(x)$ as close to $a$ as possible
@@ -20,7 +20,7 @@ title: Rates of Change
 		- As we move $b$ closer to $a$, the gradient will begin to approach the true value of the instantaneous rate of change
 			- This value is known as the <u>limiting value</u>
 		- Through this we can estimate the instantaneous rate of change, however this is still an <u>approximation</u>
-			- Using the [[Rates of Change#The Derivative|derivative]] we can calculate the true limiting value
+			- Using the [[Introduction to Differential Calculus#The Derivative|derivative]] we can calculate the true limiting value
 	- For a function $y = f(x)$, the <span style="color:gold;">instantaneous change</span> at the point $(a, f (a))$ is the gradient of the <u>tangent line</u> to the graph of $y = f(x)$ at the point $(a, f (a))$
 
 ### The Derivative
@@ -29,7 +29,7 @@ title: Rates of Change
 	- Now we will examine the actual tangent at point $a$, the true **instantaneous gradient**
 - The derivative is the gradient at any point for any graph
 	- e.g. the derivative of $x^2$ ($f(x) = x^2$) is $2x$
-	- See below for the full [[Rates of Change#Definition of the Derivative|definition]]
+	- See below for the full [[Introduction to Differential Calculus#Definition of the Derivative|definition]]
 
 > [!hint] Derivative Notation
 > 
@@ -52,7 +52,7 @@ title: Rates of Change
 	- $f'(x) = {\lim \atop h → 0}\frac{f(x\ +\ h)\ -\ f(x)}{h}$
 - The **tangent line** to a graph of the function $f$ at the point $(a, f(a))$ is defined to be the line through $(a, f(a))$ with gradient $f'(a)$
 
-### Rules for Differentiation
+#### Rules for Differentiation
 - There are certain rules that we observe in differentiation:
 	- Constant function: If $f(x) = c$, then $f'(x) = 0$
 	- Linear function: If $f (x) = mx + c$, then $f'(x) = m$
@@ -86,6 +86,11 @@ title: Rates of Change
 ### Graphs of the Derivative Function
 - Textbook: [[Cambridge Methods (Outdated).pdf#page=627|Cambridge 17F]]
 
+>[!note]+ Estimating a Derivative Graph of a Polynomial Function
+>
+> The graph of a derivative function for a **polynomial** will be the same as the polynomial graph of one less power
+> - e.g. the graph of $f'(x)$ when $f(x) = 2x^3 + 5x$ will be a parabola since the original function graph was a cubic
+
 ##### Increasing and Decreasing Functions
 - A function $f$ is **strictly increasing** on an interval if $x_2 > x_1$ implies $f(x_2) > f(x_1)$
 	- Strictly increasing means that the gradient <u>cannot be negative</u> at any point
@@ -96,7 +101,24 @@ title: Rates of Change
 		- $f'(x)$ can still be $0$ as explained above
 	- If $f'(x) < 0$ for all $x$ in the interval, then the function is strictly decreasing
 
->[!note]- Estimating a Derivative Graph of a Polynomial Function
->
-> The graph of a derivative function for a **polynomial** will be the same as the polynomial graph of one less power
-> - e.g. the graph of $f'(x)$ when $f(x) = 2x^3 + 5x$ will be a parabola since the original function graph was a cubic
+### Antiderivatives
+- [[Cambridge Methods (Outdated).pdf#page=635|Cambridge - 17G]]
+- The process of <u>finding a function</u> from its **derivative** is known as *antidifferentiation*
+	- e.g. the **antiderivative** for $f'(x) = 2x$ is $f(x) = x^2 + c$
+		- The constant $c$ is what differs all possible functions for the derivative function $f'(x) = 2x$
+	- There always are multiple antiderivatives for any function
+- **Integral** Symbol - $\int$
+	- <u>Leibniz notation</u> can be used to state the **general antiderivative**
+		- e.g. $\int\ 2x\ dx = x^2 + c$
+			- The **general antiderivative** <u>OR</u> **indefinite integral** of $2x$ with respect to $x$ is equal to $x^2 + c$
+	- In general if $F'(x) = f(x)$, then $\int f(x)\ dx = F(x) + c$, where $c$ is an arbitrary real number
+		- **General Formula**: $\int x^n\ dx = \frac{x^{n + 1}}{n\ +\ 1} + c$, $n \in \mathbb{N} \cup \{0\}$
+
+#### Rules for Antidifferentiation
+- **Sum**: $\int f(x) + g(x)\ dx = \int f(x)\ dx + \int g(x)\ dx$
+- **Difference**: $\int f(x) - g(x)\ dx = \int f(x)\ dx - \int g(x)\ dx$
+- **Multiple**: $\int kf(x)\ dx = k \int f(x)\ dx$, where $k \in \mathbb{R}$
+	- Do not multiply $c$ by $k$
+
+---
+[[../Term 3/Applications of Differential Calculus|Continue → Applications of Differential Calculus]]
