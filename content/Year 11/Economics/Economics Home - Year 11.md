@@ -15,3 +15,4 @@ title: Economics Home - Year 11
 ### Unit 2
 - [[Term 2/Introduction to Macroeconomics|Introduction to Macroeconomics]]
 - [[Term 2/Economic Growth|Economic Growth]]
+- [[Term 3/Inflation|Inflation]]
