@@ -17,5 +17,6 @@ title: Specialist Home - Year 11
 
 ### Unit 2
 - [[Term 2/Matrices|Matrices]]
-- [[Term 2/Transformations of the Plane|Transformations of the Plane]]
-- [[Term 2/The Nature of Proof|The Nature of Proof]]
+- [[Term 2/Transformation Matrices|Transformation Matrices]]
+- [[Term 2/The Nature of Proof#Proof by Induction|The Nature of Proof]]
+- [[../Methods/Term 2/Trigonometry|Trigonometry]]

@@ -69,6 +69,19 @@ title: Electrical Circuits
 - We cannot tell whether an object has gained positive or negative charge
 	- We don't know which object gains/loses electrons
 
+#### Conductors and Insulators
+- Electrons are an easy particle to move, however they move in some materials more freely than others
+- Materials where the electrons can move easily are called *conductors*
+	- e.g. metals, water, earth
+		- best conductors → good conductors
+	- Conductors are good conductors of electricity
+- Materials where the electrons have less free movement are called *insulators*
+	- e.g. glass, rubber, plastic, cloth, wood
+		- best insulators → good insulators
+	- Insulators are poor conductors of electricity
+		- Electrons are attracted strongly to atom's nucleus or are involved in the bonding of the substance
+	- No matter how insulating a material is, it still will have some electron movement
+
 - *Charging by induction* is where **electrons are redistributed** on an object to produce regions of different charge (i.e. an electric dipole)
 	- The separation of charge is temporary and will reverse once the inducing charge is removed
 		- This is similar to how temporary dipoles work (from chemistry)
@@ -92,3 +105,91 @@ title: Electrical Circuits
 	- $q_1$, $q_2$ = the charges on the two charged objects
 		- Measured in coulombs ($C$)
 	- $r$ = radius/the **distance between** the two **objects**
+
+> [!hint]+ **Charge of Important Particles**:
+> 
+> - 1 **proton** = +$1.6 \times 10^{−19}\ C$
+> - 1 **electron** = -$1.6 \times 10^{−19}\ C$
+> - $1\ C$ = $6.2 \times 10^{18}$ protons/electrons
+
+### Electrical Current
+- A current is a charged particle/s in motion
+	- When current is referred to in physics, it is referring to **conventional current**
+- **Conventional current** is the flow of charge from **positive to negative**, however, **electron current** flows from **negative to positive**
+	- This does not make any functional difference in electrical circuits
+
+- When charge moves from one position to another, **work is done** on the charge
+	- i.e. they have changed in their electric potential energy
+	- $W = \Delta{E}$
+		- Work done ($W$) measured in joules $-$ $J$
+- *Voltage* is the electric force that pushes charged particles over a distance
+	- $V = \frac{W}{q}$
+		- $q$ = charge ($C$)
+	- Voltage is measured in volts $-$ $V$ or $J\ C^{-1}$
+	- If a wire connects two points directly, the voltage between those two points must be the same
+		- The **last section of a circuit** must have **a voltage of zero**
+			- Current adjusts to allow the voltage to always drop to zero at the end of a circuit with fixed resistance
+	- A **circuit with no resistance** **will break** since there is no point in the circuit for the voltage to drop
+
+- *Current* is the amount of charge which flows past a given point in a given unit of time (1 second)
+	- $I = \frac{q}{\Delta{t}}$
+		- $q$ = charge ($C$)
+	- Current is measured in amps - $A$
+	- Calculating energy from voltage and current → $E = VIt$
+
+### Resistance and Ohm's Law
+- *Resistance* is the measure of the difficulty with which charge moves through a medium
+	- *Effective resistance* ($R_e$) is equal to total resistance
+- **Ohm's Law** → $V = IR$
+	- $V$ - Voltage drop over component/circuit
+		- This measures the change in voltage from the section before the component to after the component
+	- $I$ - Current flowing through component/circuit
+	- $R$ - Resistance measured in **Ohms** $(\Omega)$
+- **Parallel Circuit** Formula ($R_e$) → $\frac{1}{R_e} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} +\ ...$
+	- For a series circuit, the effective resistance can be found by just adding up all the individual resistances
+	- For complex circuits (both parallel and series components), add up all resistances in series and calculated resistance from each individual parallel circuit branch (using parallel circuit formula)
+- <u>Ohmic vs Non-Ohmic Devices</u>
+	- Ohmic devices have a straight line relationship between increase in voltage and increase in current
+	- Non-ohmic devices have a cubic relationship (with one stationary point) between increase in voltage and increase in current
+	- Example Graph:
+	  ![[OhmicVsNon-Ohmic]]
+
+### Circuits
+- Electrical circuits **transform** electrical energy into other forms of <u>useful</u> energy
+	- e.g. heat, light, sound
+- **Minimum Components for a Circuit**:
+	1. Power pack
+		- i.e. source of energy/potential
+	2. Wire (conducting medium)
+		- Made of conductive metals
+			- e.g. copper, silver, gold, platinum
+	3. Devices/component/resistors
+#### Series Circuits
+- Series circuits have components attached in a series
+- Current is the same in every part of a series circuit
+	- If more components (resistors) are added, then the effective current is reduced but will still be the same everywhere
+	- $I_{total} = I_1 = I_2 = I_3 = \ {...}$
+- For a single component in series with the energy source, $V \propto emf$
+	- If more components are added in series, then the sum of all individual voltage drops equal the total voltage drop
+	- $V_{total} = V_1 + V_2 + V_3 +\ {...}$
+#### Parallel Circuits
+- Parallel circuits have branches
+- Current is divided among components in different branches
+	- $I_{total} = I_1 + I_2 + I_3 +\ {...}$
+- Voltage is the same in each branch
+	- $V_{total} = V_1 = V_2 = V_3 =\ {...}$
+#### Circuit Components
+- Circuit Diagram Symbols:
+  ![[CircuitComponents|600]]
+- Resistor
+	- Resistors convert electrical energy to heat energy
+		- Voltage falls because work is being done
+	- All components in a circuit provide resistance
+- Battery
+	- Stores chemical energy and converts it to electrical energy
+		- The chemical reactions in a battery involve the flow of electrons from one electrode to another
+- Voltmeter - measures **voltage drop**/potential drop/electro motor force
+	- Unit ($V$)
+- Ammeter - measures current ($I$)
+	- Unit ($A$) amperes
+- Galvanometer - v. sensitive ammeter

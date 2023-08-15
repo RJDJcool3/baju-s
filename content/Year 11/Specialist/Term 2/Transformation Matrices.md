@@ -1,11 +1,10 @@
 ---
-title: Transformations of the Plane
+title: Transformation Matrices
 ---
 
 ##### [[../../Specialist/Specialist Home - Year 11|← Specialist Home]]
 
 Textbook: [[Cambridge Specialist.pdf#page=460|Cambridge - Chapter 16]]
-
 ### Linear Transformations
 - Transformations in the 2D plane are ways of systematically changing all points in the plane ($x,\ y$) to a new point in the plane ($x',\ y'$)
 - Linear transformations have the rule $(x,\ y) → (ax + by,\ cx + dy)$
@@ -30,7 +29,7 @@ Textbook: [[Cambridge Specialist.pdf#page=460|Cambridge - Chapter 16]]
 - Since we can transform shapes on a 2D plain using matrices, there are several important transformations that are geometric in nature
 - Important note: shear transformations are not required in the course, however they are an interesting and useful transformation
 	- Read about shears here: [[Cambridge Specialist.pdf#page=467|Cambridge - Shears]]
-- Matrix multiplication can be thought as applying one linear transformation and then another
+- [[Matrices#Matrix Multiplication|Matrix multiplication]] can be thought as applying one linear transformation and then another
 	- This is why the order in matrix multiplication matters
 	- The transformations happen from right to left
 		- e.g. $[{1 \atop 0}{0 \atop -1}][{3 \atop 0}{0 \atop 1}]$ applies the transformation of the matrix $[{3 \atop 0}{0 \atop 1}]$ first and then the transformation of $[{1 \atop 0}{0 \atop -1}]$ afterwards
@@ -50,12 +49,20 @@ Textbook: [[Cambridge Specialist.pdf#page=460|Cambridge - Chapter 16]]
 		- A reflection in the line $y = -x$ is defined by $(x,\ y) → (-y,\ -x)$
 			- This can be represented in matrix multiplication: $[{x' \atop y'}] = [{0 \atop -1}{\ -1 \atop 0}][{x \atop y}]$
 			  ![[ReflectionOverLineY-X|250]]
-	- Reflections in the line $y = mx$
+	- **Reflections in the line** $\textcolor{#00ddff}{y = mx}$
 		- Textbook: [[Cambridge Specialist.pdf#page=472|Cambridge - Reflections in the line y = mx]]
 			- The textbook explains in depth how to find the reflection matrix
 		- Let’s suppose that the angle between the positive direction of the $x$-axis and the line $y = mx$ is $\theta$, then $\tan\theta = m$
 			- $\therefore\ y = mx = x\tan\theta$
 			- The reflection matrix is $[{x' \atop y'}] = [{\cos(2\theta) \atop \sin(2\theta)}{\ \ \ \sin(2\theta) \atop -\cos(2\theta)}][{x \atop y}]$
+		- Review [[Methods/Term 2/Trigonometry|Trigonometry]] and [[Methods/Term 2/Trigonometry#Double Angle Formulas|Double Angle Formulas]]
+	- **Reflections in the line** $\textcolor{#00ddff}{y = mx + c}$
+		- Steps
+			1. Vertically translate line of reflection to intersect with origin
+			2. Apply reflection matrix
+			3. Vertically translate line of reflection to original position
+		- Formula
+			- $[{x' \atop y'}] = [{\cos(2\theta) \atop \sin(2\theta)}{\ \ \ \sin(2\theta) \atop -\cos(2\theta)}]([{x \atop y}] - [{0 \atop c}{0 \atop c}{... \atop ...}{0 \atop c}]) + [{0 \atop c}{0 \atop c}{... \atop ...}{0 \atop c}]$
 
 ##### Dilations
 - Dilation is the process of stretching a shape on the graph from an axis by multiplying points by a value
@@ -88,10 +95,41 @@ Textbook: [[Cambridge Specialist.pdf#page=460|Cambridge - Chapter 16]]
 	- A translation is expressed with vector addition
 		- $[{x' \atop y'}] = [{x \atop y}] + [{a \atop b}]$
 		- Translations cannot be represented with matrix multiplication
+- Translations **are not linear transformations**
 
 ##### Rotations
 - A rotation moves all points around a fixed point without changing the distance from that point
 	- Textbook: [[Cambridge Specialist.pdf#page=471|Cambridge - Rotations]]
-	- Rotation around the origin
+	- **Rotation around the origin**
 		- This can be represented in matrix multiplication: $[{x' \atop y'}] = [{\cos\theta \atop \sin\theta}{-\sin\theta \atop \ \ \ \cos\theta}][{x \atop y}]$
 			- $\theta$ is the angle from the positive direction of the $x$-axis
+			- Rotation in an anti-clockwise direction
+	- **Rotation around point** $\textcolor{#00ddff}{(p, q)}$
+		- Steps:
+			1. Translate centre of rotation to the origin
+			2. Apply rotation matrix
+			3. Translate centre of rotation back to original position
+		- Formula:
+			- $[{x' \atop y'}] = [{\cos\theta \atop \sin\theta}{-\sin\theta \atop \ \ \ \cos\theta}]([{x \atop y}] - [{p \atop q}{p \atop q}{... \atop ...}{p \atop q}]) + [{p \atop q}{p \atop q}{... \atop ...}{p \atop q}]$
+
+### Combining Transformations
+- We know that geometric transformations can be represented by a matrix, however, how do we apply multiple transformations to an object all at once?
+- Lets say we want to apply transformation $A$, $B$ and $C$ (in this order) to object $[{x \atop y}]$
+	- Transformations can be applied through matrix multiplication:
+		- $C\cdot B\cdot A\cdot [{x \atop y}]$
+		- Notice how the order of multiplication is reversed from the order of transformations
+		- The order of multiplication matters, just like the order that the transformations are applied
+- $AB$ is the matrix of transformation $B$ followed by $A$
+- $BA$ is the matrix of transformation $A$ followed by $B$
+
+### Transformations of Straight Lines and Other Graphs
+- Straight lines always remain as a straight line after undergoing a linear transformation
+- Linear transformations can be approached like a [[Matrices#Simultaneous Equations Using Matrices|simultaneous equation]]
+	- We can represent $x$ and $y$ (the original equation) and $x'$ and $y'$ (the transformed equation) as a matrix
+- We want to represent transformed matrix $[{x' \atop y'}]$ in terms of matrix $[{x \atop y}]$
+	- e.g. applying a reflection over the $y$-axis:
+		- $[{1 \atop 0}{\ \ 0 \atop -1}][{x \atop y}] = [{x' \atop y'}] → [{x \atop y}] = [{1 \atop 0}{\ \ 0 \atop -1}]^{-1}[{x' \atop y'}] → [{x \atop y}] = [{-1 \atop \ \ \ 0}{0 \atop 1}][{x' \atop y'}] → [{-x' \atop y'}]$
+			- If this transformation was applied to $y = 3x + 7$, the output equation would be $y = -3x + 7$
+- When a shape with area $A$ is transformed by a matrix with [[Matrices#Inverses|determinant]]   $k$, the area of the image is $|k|A$
+---
+[[Matrices|Back → Matrices]]
