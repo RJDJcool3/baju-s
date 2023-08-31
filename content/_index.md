@@ -8,7 +8,7 @@ title: Baju's
 > 
 > As the leader in the Indian tech and education industry, we bring the future of education to the present through technology-enabled, personalized and engaging learning journeys. 
 
-Hello! I'm [[Year 11/Articles/About Me|Ajay]] (or Bajay, or whatever you want to call me, I didn't create these nicknames), this is my website of notes from Obsidian, which I was bullied into using by Jonathan Lee. Thank you Jonathan. If something seems off in this website, it was probably Jonathan who wrote it. Thank you to Jonathan, [Oscar](https://github.com/notmario) and [Edward](https://github.com/eddietheed) for being a massive help in setting this up!
+Hello! I'm [[Year 11/Articles/About Me|Ajay]] (or Bajay, or whatever you want to call me, I didn't create these nicknames), this is my website of notes from Obsidian, which I was bullied into using by Jonathan Lee. Thank you Jonathan. If something seems off in this website, it was probably Jonathan who wrote it. Thank you to Jonathan, [notmario](https://github.com/notmario) and [eddietheed](https://github.com/eddietheed) for being a massive help in setting this up!
 
 I am a member of the town. Their sites can be found below.
 
