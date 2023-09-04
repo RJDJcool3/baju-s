@@ -1,10 +1,10 @@
 ---
 title: Trigonometry
 ---
-
 ##### [[../Methods Home - Year 11|← Methods Home]] | [[../../Specialist/Specialist Home - Year 11|← Specialist Home]]
 
 > Specialist Textbook: [[Cambridge Specialist.pdf#page=297|Cambridge Chapter 10]]
+> Specialist Textbook: [[Cambridge Specialist.pdf#page=326|Cambridge Chapter 11]]
 ---
 ## Exact Values
 #### Degrees - Table of Exact Values
@@ -37,7 +37,7 @@ title: Trigonometry
 - Trigonometry equations have an infinite number of solutions since there is an infinite amount of ways to represent an angle
 	- e.g. 360$\degree$ = 720$\degree$
 #### Sine and Cosine Graphs
-- General Formula → $y = \textcolor{#E41B17}{a}{\sin}\textcolor{#357EC7}{b}(x - \textcolor{lightgreen}{c}) + \textcolor{gold}{d}$/$y = \textcolor{#E41B17}{a}{\cos}\textcolor{#357EC7}{b}(x - \textcolor{lightgreen}{c}) + \textcolor{gold}{d}$
+- General Formula → $y = \textcolor{#E41B17}{a}{\sin}(\textcolor{#357EC7}{b}(x - \textcolor{lightgreen}{c})) + \textcolor{gold}{d}$ **/** $y = \textcolor{#E41B17}{a}{\cos}(\textcolor{#357EC7}{b}(x - \textcolor{lightgreen}{c})) + \textcolor{gold}{d}$
 	- Amplitude: $\textcolor{#E41B17}{a}$ (a > 0)
 	- Period: $\frac{2\pi}{\textcolor{#357EC7}{b}}$
 	- Range: \[$\textcolor{#E41B17}{-a,}$ $\textcolor{#E41B17}{a}$]
@@ -50,7 +50,7 @@ title: Trigonometry
 	- Repeats every $180\degree$ or $\pi$ radians
 	- Vertical asymptotes at $90\degree\pm 180\degree$
 	  
-- General Equation: $y = \textcolor{#E41B17}{a}{\tan}\textcolor{#357EC7}{b}(x - \textcolor{lightgreen}{c}) + \textcolor{gold}{d}$
+- General Equation: $y = \textcolor{#E41B17}{a}{\tan}(\textcolor{#357EC7}{b}(x - \textcolor{lightgreen}{c})) + \textcolor{gold}{d}$
 	- **Components:**
 		- $a$ is the **steepness** of the graph
 		- Period: $\frac{\pi}{\textcolor{#357EC7}{b}}$
@@ -63,12 +63,14 @@ title: Trigonometry
 		- The asymptotes have equations $x = \frac{(2k\  +\  1)\pi}{2b}$
 		- The $x$-intercepts are $x$ = $\frac{k\pi}{b}$
 
+## Identities
+- *Identities* are expressions with an $=$ sign which are always true regardless of the value of $x$ or $\theta$
 ### Complementary Relationships
 - [[../Course Documents/Textbooks/Cambridge Methods (Outdated).pdf#page=444|Cambridge - Circular Functions 12L]]
 - From a graph of $\textcolor{#427fbb}{\sin(\theta)}$ and $\textcolor{red}{\cos(\theta)}$ we can observe that we can transform both graphs into each other by shifting them horizontally
-	- $\sin(\frac{\pi}{2} + \ \theta) = \cos(\theta)$
+	- $\sin(\frac{\pi}{2} \pm \ \theta) = \cos(\theta)$
 		- The $\sin$ graph is shifted to the left
-	- $\cos(\frac{\pi}{2} +\ \theta) = \textcolor{gold}{-}\sin(\theta)$
+	- $\cos(\frac{\pi}{2} +\ \theta) = \textcolor{#00ddff}{-}\sin(\theta),$ $\cos(\frac{\pi}{2} -\ \theta) = \sin(\theta)$
 		- The $\cos$ graph is shifted to the left and is the same as the $\sin$ graph reflected over the $x$-axis
 		  ​````
 ```desmos-graph
@@ -87,14 +89,44 @@ top=2; bottom=-2; right=5; left=-5;
   ![[PythagoreanIdentities|450]]
 	- This is known as the Pythagorean identity
 	- $\textcolor{gold}{\sin^2\theta+\cos^2\theta = 1}$
-	  
+		- Can also be rewritten as:
+			- $1 + \tan^2{\theta} = \sec^2{\theta}$
+			- $\cot^2{\theta} + 1 = \csc^2{\theta}$
+
 ### Angle Sum and Difference Identities
 - [[../Course Documents/Textbooks/Cambridge Methods (Outdated).pdf#page=447|Cambridge - Circular Functions 12M]]
 	- Proofs in textbook
-- $\sin(A \pm B) = \sin{A}\cos{B} \pm \cos{A}\sin{B}$
-- $\cos(A \pm B) = \cos{A}\cos{B} \mp \sin{A}\sin{B}$
-- $\tan(A \pm B) = \frac{\tan{A}\ \pm\ \tan{B}}{1\ \mp\ \tan{A}\tan{B}}$
+- Basic Identities:
+	- $\sin(A \pm B) = \sin{A}\cos{B} \pm \cos{A}\sin{B}$
+	- $\cos(A \pm B) = \cos{A}\cos{B} \mp \sin{A}\sin{B}$
+	- $\tan(A \pm B) = \frac{\tan{A}\ \pm\ \tan{B}}{1\ \mp\ \tan{A}\tan{B}}$
+- Simplifying $a\cos{x} + b\sin{x}$:
+	- $a\cos{x} + b\sin{x} = (\sqrt{a^2 + b^2})\cos(x - \alpha)$
+		- $\cos{\alpha} = \frac{a}{r}$
+		- $\sin{\alpha} = \frac{b}{r}$
+	- $a\cos{x} + b\sin{x} = (\sqrt{a^2 + b^2})\sin(x + \beta)$
+		- $\cos{\beta} = \frac{b}{r}$
+		- $\sin{\beta} = \frac{a}{r}$
 
+> [!hint] Adding 'like' graphs
+> 
+> Adding $y = {a_1}\sin(x)$ to $y = {a_2}\sin(x)$ equals $y = (a_1 + a_2)\sin(x)$
+> - This also works for 'like' cos graphs
+
+### Product-to-Sum and Sum-to-Product Formulas
+#### Product-to-Sum Identities
+- $\cos{A}\cos{B} = \frac{1}{2}(\cos(A − B) + \cos(A + B))$
+- $\sin{A}\sin{B} = \frac{1}{2}(\cos(A − B) − \cos(A + B))$
+- $\sin{A}\cos{B} = \frac{1}{2}(\sin(A + B) + \sin(A − B))$
+#### Sum-to-Product Identities
+- These are not found in the formula sheet, you must learn to derive them from the product-to-sum identities:
+	- Let $P = A + B$ and $Q = A - B$
+	- Then $P + Q = 2A\ \therefore\ A = \frac{P + Q}{2}$
+	- And also $P - Q = 2B\ \therefore\ B = \frac{P - Q}{2}$
+- $\cos{A} + \cos{B} = 2\cos(\frac{A + B}{2})\cos(\frac{A - B}{2})$
+- $\cos{A} - \cos{B} = −2\sin(\frac{A + B}{2})\sin(\frac{A - B}{2})$
+- $\sin{A} + \sin{B} = 2\sin(\frac{A + B}{2})\cos(\frac{A - B}{2})$
+- $\sin{A} - \sin{B} = 2\sin(\frac{A - B}{2})\cos(\frac{A + B}{2})$
 ### Double Angle Formulas
 - Using addition formulas, we can derive useful expressions for $\sin(2\theta)$, $\cos(2\theta)$ and $\tan(2\theta)$
 	- We know $2\theta = \theta + \theta$
@@ -124,3 +156,25 @@ top=2; bottom=-2; right=5; left=-5;
 	- For $a ∈ \mathbb{R}$, the general solution of the equation $\tan x = a$ is:
 		- $x = nπ + tan^{−1} (a)$, where $n ∈ \mathbb{Z}$
 
+## Reciprocal Circular Functions
+- Reciprocal Functions:
+	- $\sec{\theta} = \frac{1}{\cos{\theta}}$
+	- $\csc{\theta} = \frac{1}{\sin{\theta}}/\mathrm{cosec}\ {\theta} = \frac{1}{\sin{\theta}}$
+	- $\cot{\theta} = \frac{\cos{\theta}}{\sin{\theta}}/\cot{\theta} = \frac{1}{\tan{\theta}}$
+- Pythagorean Identities:
+	- $1 + \tan^2{\theta} = \sec^2{\theta}$
+	- $\cot^2{\theta} + 1 = \csc^2{\theta}$
+
+### Reciprocal Circular Graphs
+- The relationship between $y = f(x)$ and $y = \frac{1}{f(x)}$:
+	- The $x$-intercepts becomes vertical asymptote
+	- Positive values from $f(x)$ remain positive and vice-versa
+		- Local minimum → local maximum and vice-versa
+	- As $f(x)$ gets larger, $\frac{1}{f(x)}$ gets smaller and vice-versa
+		- As $f(x) → \infty{^+}$, $\frac{1}{f(x)} → 0^+$
+	- Where $f(x) = 1$, $\frac{1}{f(x)} = 1$ → the two graphs intercept
+- The graph of cotangent is a reflection and translation of the graph of tangent: $\cot(x) = -\tan(x - \frac{\pi}{2})$
+#### Sec Graphs
+- General Equation: $y = \textcolor{#E41B17}{a}{\sec}(\textcolor{#357EC7}{b}(x - \textcolor{lightgreen}{c})) + \textcolor{gold}{d}$
+	- $\textcolor{#E41B17}{a} =$ distance from line $y = 1$ and trough/peak
+	- $\textcolor{#357EC7}{b} =$ (distance between troughs/peaks) $/ \frac{\pi}{2}$
