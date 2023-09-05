@@ -10,12 +10,12 @@ title: Physics Home - Year 11
 - [[Course Documents/Physics_ATAR_Year_11_Assessment_Outline_PMS_2023_1.pdf|Assessment Outline]]
 - [[Course Documents/Physics_Formulae_and_Data_sheet_YEAR_11_2020.pdf|Formula Sheet]]
 
-- **[[Science Inquiry Skills]]**
+- **[[Term 3/Science Inquiry Skills]]**
 
 ### Unit 1
 - [[Term 2/Ionising Radiation and Nuclear Reactions|Ionising Radiation and Nuclear Reactions]]
 	- [[Term 2/Medical Physics and Dosimetry - Research Assignment|Medical Physics and Dosimetry - Research Assignment]]
-- [[Electrical Circuits]]
+- [[Term 3/Electrical Circuits]]
 
 ### Unit 2
 - [[Term 1/Linear Motion and Force|Linear Motion and Force]]
